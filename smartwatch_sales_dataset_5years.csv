@@ -1,0 +1,1001 @@
+Order ID,Date,Brand,Model,Region,Specification,Store Name,Unit Price,Cost per Unit,Quantity,Sales,Profit,Revenue
+ORD0001,2024-10-25,Apple,Watch Series 8,North,"Rugged, GPS + Cellular",SmartTech,361,320,2,722,82,722
+ORD0002,2023-07-29,Fitbit,Charge 6,South,"Rugged, Military Std",SmartTech,138,48,2,276,180,276
+ORD0003,2021-02-03,Fitbit,Versa 4,South,"GPS + Cellular, Rugged, EDA Sensor",Tech World,213,142,10,2130,710,2130
+ORD0004,2021-12-04,Samsung,Galaxy Watch 5,West,"Bluetooth Only, Sleep Track, GPS",iHub,343,280,6,2058,378,2058
+ORD0005,2022-10-23,Samsung,Galaxy Watch 5,South,"Military Std, GPS + Cellular",Gadget Zone,307,255,10,3070,520,3070
+ORD0006,2020-02-05,Garmin,Forerunner 955,Central,"Rugged, AMOLED, Health Monitor",Digital Mall,514,441,8,4112,584,4112
+ORD0007,2021-05-09,Apple,Watch Ultra 2,North,"GPS + Cellular, Rugged, EDA Sensor",Fit Gear,796,744,5,3980,260,3980
+ORD0008,2024-04-11,Samsung,Galaxy Watch 6,West,"Health Monitor, AMOLED",SmartTech,365,315,6,2190,300,2190
+ORD0009,2021-08-08,Apple,Watch Ultra 2,North,"Military Std, EDA Sensor, Sleep Track",Tech World,700,634,5,3500,330,3500
+ORD0010,2021-04-18,Garmin,Venu 2,East,"Military Std, Health Monitor, Bluetooth Only",Digital Mall,390,345,9,3510,405,3510
+ORD0011,2020-08-04,Garmin,Venu 2,North,"Sleep Track, EDA Sensor",Tech World,375,287,1,375,88,375
+ORD0012,2021-08-15,Garmin,Instinct 2,East,Rugged,Digital Mall,326,275,1,326,51,326
+ORD0013,2021-06-04,Fitbit,Versa 4,Central,"Health Monitor, Military Std",Digital Mall,200,161,10,2000,390,2000
+ORD0014,2022-10-24,Apple,Watch Series 8,South,"GPS, Health Monitor, Sleep Track",iHub,381,294,2,762,174,762
+ORD0015,2024-07-13,Fitbit,Versa 4,South,"Bluetooth Only, GPS + Cellular",Gadget Zone,227,127,2,454,200,454
+ORD0016,2024-02-05,Apple,Watch Series 9,East,"EDA Sensor, Rugged, Military Std",Tech World,417,335,1,417,82,417
+ORD0017,2022-03-28,Apple,Watch Series 8,South,"GPS + Cellular, Health Monitor, GPS",Gadget Zone,383,354,2,766,58,766
+ORD0018,2020-09-26,Amazfit,T-Rex 2,West,"AMOLED, GPS + Cellular",Online Mart,239,178,1,239,61,239
+ORD0019,2024-06-03,Garmin,Venu 2,East,"Military Std, Sleep Track",Digital Mall,383,301,7,2681,574,2681
+ORD0020,2024-10-15,Fitbit,Charge 6,North,EDA Sensor,Tech World,136,44,10,1360,920,1360
+ORD0021,2022-04-02,Amazfit,GTR 4,North,"Rugged, AMOLED",Fit Gear,188,122,2,376,132,376
+ORD0022,2020-09-08,Apple,Watch Series 8,West,EDA Sensor,Tech World,363,277,9,3267,774,3267
+ORD0023,2023-08-11,Fitbit,Versa 4,Central,"Military Std, Sleep Track, GPS + Cellular",Tech World,218,173,4,872,180,872
+ORD0024,2024-05-15,Amazfit,T-Rex 2,Central,Rugged,Tech World,249,161,10,2490,880,2490
+ORD0025,2022-08-06,Amazfit,GTS 4 Mini,North,Rugged,SmartTech,125,47,4,500,312,500
+ORD0026,2023-01-11,Samsung,Galaxy Watch 6,East,GPS,iHub,337,245,10,3370,920,3370
+ORD0027,2024-12-16,Amazfit,GTS 4 Mini,East,"Rugged, Sleep Track, GPS",iHub,108,86,2,216,44,216
+ORD0028,2023-12-06,Apple,Watch SE,North,"Sleep Track, Health Monitor, Bluetooth Only",Online Mart,273,235,10,2730,380,2730
+ORD0029,2020-05-10,Apple,Watch SE,West,"Rugged, GPS",Tech World,253,163,10,2530,900,2530
+ORD0030,2021-01-18,Amazfit,GTR 4,East,"EDA Sensor, Health Monitor, Sleep Track",Fit Gear,207,122,6,1242,510,1242
+ORD0031,2020-01-28,Fitbit,Sense 2,South,Rugged,Digital Mall,280,212,5,1400,340,1400
+ORD0032,2022-12-23,Samsung,Galaxy Watch 6,West,"AMOLED, Health Monitor",Gadget Zone,377,301,8,3016,608,3016
+ORD0033,2021-03-15,Amazfit,T-Rex 2,East,"Bluetooth Only, AMOLED",Tech World,205,147,8,1640,464,1640
+ORD0034,2022-08-07,Samsung,Galaxy Watch 6,Central,"GPS + Cellular, Sleep Track",Fit Gear,366,339,1,366,27,366
+ORD0035,2024-01-04,Garmin,Instinct 2,Central,Bluetooth Only,SmartTech,346,284,9,3114,558,3114
+ORD0036,2024-06-22,Samsung,Galaxy Watch 5,West,EDA Sensor,Tech World,347,298,4,1388,196,1388
+ORD0037,2022-07-21,Amazfit,T-Rex 2,West,"GPS + Cellular, GPS",Tech World,233,196,5,1165,185,1165
+ORD0038,2022-07-29,Garmin,Instinct 2,South,Bluetooth Only,Fit Gear,348,306,10,3480,420,3480
+ORD0039,2024-07-19,Fitbit,Sense 2,North,"Health Monitor, GPS + Cellular",iHub,254,228,5,1270,130,1270
+ORD0040,2023-09-25,Fitbit,Charge 6,West,"AMOLED, EDA Sensor, GPS",SmartTech,129,29,8,1032,800,1032
+ORD0041,2024-05-09,Amazfit,GTS 4 Mini,Central,"AMOLED, Military Std, Bluetooth Only",Online Mart,103,44,5,515,295,515
+ORD0042,2023-09-16,Garmin,Forerunner 955,North,"GPS + Cellular, EDA Sensor, Health Monitor",Gadget Zone,532,458,6,3192,444,3192
+ORD0043,2021-04-30,Garmin,Instinct 2,South,AMOLED,iHub,312,251,2,624,122,624
+ORD0044,2024-07-17,Garmin,Instinct 2,Central,"Health Monitor, AMOLED, Military Std",Digital Mall,304,231,5,1520,365,1520
+ORD0045,2020-11-24,Garmin,Venu 2,West,"Military Std, Health Monitor, Sleep Track",Online Mart,366,314,10,3660,520,3660
+ORD0046,2020-08-06,Apple,Watch Series 8,North,"GPS + Cellular, Health Monitor",SmartTech,392,350,10,3920,420,3920
+ORD0047,2023-02-05,Apple,Watch Series 9,Central,AMOLED,iHub,467,382,7,3269,595,3269
+ORD0048,2022-01-28,Amazfit,GTR 4,West,"Bluetooth Only, GPS + Cellular",Fit Gear,212,135,2,424,154,424
+ORD0049,2022-09-01,Garmin,Forerunner 955,East,"AMOLED, GPS + Cellular, Bluetooth Only",Digital Mall,529,467,2,1058,124,1058
+ORD0050,2024-07-21,Apple,Watch Ultra 2,West,"AMOLED, Bluetooth Only, GPS + Cellular",Online Mart,773,746,9,6957,243,6957
+ORD0051,2020-07-02,Garmin,Venu 2,East,"Bluetooth Only, GPS",Online Mart,388,313,1,388,75,388
+ORD0052,2024-09-28,Samsung,Galaxy Watch 6,Central,"Military Std, AMOLED, Sleep Track",iHub,363,340,5,1815,115,1815
+ORD0053,2023-08-05,Apple,Watch Series 9,West,"Rugged, EDA Sensor",Digital Mall,479,436,10,4790,430,4790
+ORD0054,2021-02-06,Garmin,Forerunner 955,West,Rugged,iHub,512,483,3,1536,87,1536
+ORD0055,2020-12-04,Garmin,Venu 2,West,"Bluetooth Only, GPS + Cellular, Sleep Track",SmartTech,363,292,6,2178,426,2178
+ORD0056,2023-05-05,Apple,Watch Series 8,South,"Sleep Track, GPS + Cellular, Bluetooth Only",Fit Gear,351,320,1,351,31,351
+ORD0057,2020-12-06,Apple,Watch SE,West,"EDA Sensor, Rugged",Digital Mall,258,158,7,1806,700,1806
+ORD0058,2022-10-21,Fitbit,Versa 4,East,Military Std,SmartTech,218,142,9,1962,684,1962
+ORD0059,2021-06-15,Fitbit,Sense 2,Central,Health Monitor,SmartTech,265,184,5,1325,405,1325
+ORD0060,2022-12-25,Apple,Watch Ultra 2,Central,GPS,iHub,753,718,7,5271,245,5271
+ORD0061,2023-04-13,Fitbit,Versa 4,Central,"Military Std, AMOLED",iHub,222,182,9,1998,360,1998
+ORD0062,2023-08-26,Fitbit,Versa 4,North,"Rugged, GPS + Cellular",Gadget Zone,214,167,2,428,94,428
+ORD0063,2023-11-07,Amazfit,T-Rex 2,North,"EDA Sensor, AMOLED, GPS",Fit Gear,235,166,2,470,138,470
+ORD0064,2021-12-05,Apple,Watch SE,North,"Health Monitor, Sleep Track",Fit Gear,267,204,2,534,126,534
+ORD0065,2024-08-20,Samsung,Galaxy Watch 6,South,"Sleep Track, Bluetooth Only",Gadget Zone,351,273,6,2106,468,2106
+ORD0066,2020-06-13,Apple,Watch Ultra 2,West,"GPS + Cellular, Sleep Track, Bluetooth Only",iHub,796,708,7,5572,616,5572
+ORD0067,2022-07-11,Garmin,Venu 2,North,"GPS, AMOLED, Health Monitor",Online Mart,361,295,8,2888,528,2888
+ORD0068,2020-02-15,Apple,Watch Series 9,West,"Rugged, Sleep Track",Digital Mall,440,344,8,3520,768,3520
+ORD0069,2020-01-30,Garmin,Instinct 2,North,Rugged,Fit Gear,340,318,5,1700,110,1700
+ORD0070,2023-12-30,Apple,Watch Ultra 2,West,"AMOLED, Bluetooth Only",iHub,713,625,4,2852,352,2852
+ORD0071,2020-06-29,Fitbit,Versa 4,West,Military Std,iHub,202,168,4,808,136,808
+ORD0072,2024-03-13,Garmin,Instinct 2,North,"Sleep Track, AMOLED, GPS",iHub,312,266,5,1560,230,1560
+ORD0073,2024-08-09,Samsung,Galaxy Watch 6,South,"Sleep Track, Health Monitor",SmartTech,358,321,6,2148,222,2148
+ORD0074,2022-06-21,Garmin,Venu 2,South,Health Monitor,Online Mart,398,360,9,3582,342,3582
+ORD0075,2020-02-12,Fitbit,Versa 4,East,"Health Monitor, AMOLED, Rugged",SmartTech,203,150,10,2030,530,2030
+ORD0076,2020-05-02,Amazfit,GTS 4 Mini,West,"Sleep Track, GPS",Online Mart,124,76,1,124,48,124
+ORD0077,2021-04-24,Samsung,Galaxy Watch 5,South,"Sleep Track, GPS + Cellular",iHub,303,237,10,3030,660,3030
+ORD0078,2021-04-07,Samsung,Galaxy Watch 6,North,"Bluetooth Only, Sleep Track, Rugged",Online Mart,338,247,4,1352,364,1352
+ORD0079,2024-04-19,Apple,Watch Series 9,West,"Bluetooth Only, Rugged",Digital Mall,472,389,5,2360,415,2360
+ORD0080,2021-05-23,Garmin,Instinct 2,Central,"Bluetooth Only, Health Monitor, Rugged",Gadget Zone,308,252,9,2772,504,2772
+ORD0081,2021-07-08,Garmin,Instinct 2,West,"AMOLED, Rugged, Sleep Track",iHub,323,278,7,2261,315,2261
+ORD0082,2020-06-19,Amazfit,GTR 4,North,Bluetooth Only,Digital Mall,179,141,8,1432,304,1432
+ORD0083,2023-02-08,Apple,Watch Series 8,West,"Health Monitor, AMOLED",Online Mart,383,289,2,766,188,766
+ORD0084,2021-01-26,Garmin,Instinct 2,Central,Health Monitor,Gadget Zone,332,291,1,332,41,332
+ORD0085,2022-05-20,Apple,Watch SE,North,"AMOLED, Rugged",Fit Gear,261,197,2,522,128,522
+ORD0086,2020-05-13,Amazfit,GTS 4 Mini,East,"Military Std, Rugged, AMOLED",Tech World,124,87,7,868,259,868
+ORD0087,2023-04-03,Fitbit,Sense 2,East,"GPS + Cellular, AMOLED, GPS",Gadget Zone,293,204,5,1465,445,1465
+ORD0088,2024-05-16,Amazfit,GTR 4,Central,GPS + Cellular,SmartTech,203,133,2,406,140,406
+ORD0089,2024-07-10,Amazfit,GTS 4 Mini,West,"GPS + Cellular, Rugged",Fit Gear,115,29,7,805,602,805
+ORD0090,2021-06-13,Fitbit,Sense 2,North,AMOLED,SmartTech,276,240,3,828,108,828
+ORD0091,2023-05-13,Amazfit,T-Rex 2,Central,"EDA Sensor, Military Std, GPS",SmartTech,232,151,2,464,162,464
+ORD0092,2022-03-31,Samsung,Galaxy Watch 6,West,"GPS + Cellular, EDA Sensor",iHub,364,336,6,2184,168,2184
+ORD0093,2023-06-07,Garmin,Venu 2,Central,Bluetooth Only,iHub,351,262,7,2457,623,2457
+ORD0094,2024-12-27,Garmin,Forerunner 955,North,"AMOLED, Bluetooth Only, Health Monitor",iHub,549,482,2,1098,134,1098
+ORD0095,2023-04-09,Fitbit,Charge 6,East,AMOLED,iHub,143,108,6,858,210,858
+ORD0096,2023-01-12,Amazfit,GTR 4,South,"GPS, Military Std, GPS + Cellular",Tech World,207,167,6,1242,240,1242
+ORD0097,2021-07-05,Garmin,Instinct 2,East,Bluetooth Only,iHub,326,258,7,2282,476,2282
+ORD0098,2024-11-28,Garmin,Venu 2,Central,"GPS + Cellular, GPS, Rugged",Gadget Zone,388,295,6,2328,558,2328
+ORD0099,2022-02-08,Amazfit,GTS 4 Mini,East,Health Monitor,Tech World,126,72,9,1134,486,1134
+ORD0100,2020-07-04,Samsung,Galaxy Watch 6,East,Health Monitor,Fit Gear,339,269,7,2373,490,2373
+ORD0101,2024-02-18,Amazfit,GTR 4,Central,"Health Monitor, Sleep Track",Tech World,179,134,2,358,90,358
+ORD0102,2020-08-31,Samsung,Galaxy Watch 6,West,Health Monitor,Tech World,333,267,3,999,198,999
+ORD0103,2020-08-07,Apple,Watch Ultra 2,East,Bluetooth Only,SmartTech,734,644,10,7340,900,7340
+ORD0104,2022-07-28,Apple,Watch Series 8,Central,"Health Monitor, AMOLED",Gadget Zone,359,291,5,1795,340,1795
+ORD0105,2024-05-26,Samsung,Galaxy Watch 6,East,"EDA Sensor, Rugged, Military Std",Gadget Zone,368,295,7,2576,511,2576
+ORD0106,2021-06-10,Amazfit,GTR 4,East,"AMOLED, GPS + Cellular, Bluetooth Only",Tech World,219,153,7,1533,462,1533
+ORD0107,2022-09-03,Fitbit,Versa 4,North,"Health Monitor, EDA Sensor",Tech World,223,132,5,1115,455,1115
+ORD0108,2021-09-23,Samsung,Galaxy Watch 5,North,"AMOLED, GPS + Cellular",Online Mart,313,275,10,3130,380,3130
+ORD0109,2024-07-11,Fitbit,Versa 4,West,"Health Monitor, Sleep Track",Online Mart,227,174,5,1135,265,1135
+ORD0110,2020-03-30,Apple,Watch Ultra 2,South,Military Std,Digital Mall,770,750,8,6160,160,6160
+ORD0111,2022-03-28,Fitbit,Charge 6,West,"Military Std, GPS + Cellular",Fit Gear,155,135,8,1240,160,1240
+ORD0112,2021-08-02,Amazfit,T-Rex 2,Central,Sleep Track,Tech World,199,177,4,796,88,796
+ORD0113,2024-01-12,Fitbit,Sense 2,North,EDA Sensor,Online Mart,263,196,6,1578,402,1578
+ORD0114,2021-12-16,Apple,Watch Series 8,Central,Bluetooth Only,Tech World,396,300,7,2772,672,2772
+ORD0115,2022-01-25,Fitbit,Versa 4,East,"Military Std, GPS, Bluetooth Only",Gadget Zone,224,200,8,1792,192,1792
+ORD0116,2024-04-05,Amazfit,GTR 4,South,"GPS + Cellular, GPS, AMOLED",iHub,179,137,5,895,210,895
+ORD0117,2024-11-22,Samsung,Galaxy Watch 6,West,"Rugged, GPS + Cellular",iHub,356,319,2,712,74,712
+ORD0118,2022-12-08,Apple,Watch Series 8,West,"GPS, GPS + Cellular",Digital Mall,396,318,4,1584,312,1584
+ORD0119,2021-04-27,Apple,Watch Ultra 2,East,Rugged,iHub,781,693,10,7810,880,7810
+ORD0120,2020-09-05,Samsung,Galaxy Watch 6,Central,"AMOLED, GPS, Rugged",Tech World,334,309,9,3006,225,3006
+ORD0121,2022-07-18,Amazfit,GTR 4,East,"Rugged, EDA Sensor, Military Std",Digital Mall,185,103,9,1665,738,1665
+ORD0122,2020-04-28,Fitbit,Versa 4,Central,"Sleep Track, GPS, AMOLED",iHub,213,187,2,426,52,426
+ORD0123,2022-06-25,Garmin,Venu 2,West,"AMOLED, Health Monitor, Sleep Track",Digital Mall,377,304,5,1885,365,1885
+ORD0124,2021-03-09,Apple,Watch Series 9,Central,"Military Std, GPS + Cellular, EDA Sensor",iHub,451,376,9,4059,675,4059
+ORD0125,2020-07-12,Garmin,Venu 2,East,Military Std,Tech World,370,303,5,1850,335,1850
+ORD0126,2023-07-22,Samsung,Galaxy Watch 5,North,"GPS, Health Monitor",Gadget Zone,299,268,1,299,31,299
+ORD0127,2024-03-07,Fitbit,Versa 4,East,"Health Monitor, Bluetooth Only",Fit Gear,200,167,10,2000,330,2000
+ORD0128,2020-06-24,Fitbit,Versa 4,East,GPS + Cellular,SmartTech,202,126,5,1010,380,1010
+ORD0129,2021-08-11,Apple,Watch Series 9,West,"GPS + Cellular, Military Std, GPS",iHub,448,376,2,896,144,896
+ORD0130,2023-06-28,Apple,Watch Ultra 2,Central,"Sleep Track, Rugged, GPS",SmartTech,706,683,7,4942,161,4942
+ORD0131,2022-09-08,Amazfit,GTR 4,South,"GPS, Military Std, Rugged",Gadget Zone,212,179,8,1696,264,1696
+ORD0132,2022-06-28,Apple,Watch Ultra 2,West,"Sleep Track, Health Monitor",Digital Mall,737,678,7,5159,413,5159
+ORD0133,2022-10-02,Apple,Watch SE,North,"EDA Sensor, Military Std, Health Monitor",SmartTech,274,216,8,2192,464,2192
+ORD0134,2022-02-24,Amazfit,T-Rex 2,Central,Military Std,Gadget Zone,209,163,8,1672,368,1672
+ORD0135,2020-05-26,Apple,Watch Series 9,East,"GPS + Cellular, Military Std, Rugged",SmartTech,424,346,7,2968,546,2968
+ORD0136,2021-03-11,Fitbit,Charge 6,West,"GPS, AMOLED, GPS + Cellular",Online Mart,130,89,5,650,205,650
+ORD0137,2021-07-29,Samsung,Galaxy Watch 6,South,Military Std,SmartTech,365,330,1,365,35,365
+ORD0138,2022-04-17,Apple,Watch Series 9,South,"Rugged, Sleep Track, GPS",iHub,459,364,3,1377,285,1377
+ORD0139,2024-03-22,Garmin,Venu 2,South,GPS + Cellular,Fit Gear,368,286,1,368,82,368
+ORD0140,2024-06-04,Fitbit,Charge 6,West,Military Std,SmartTech,155,127,10,1550,280,1550
+ORD0141,2023-02-07,Amazfit,T-Rex 2,Central,Health Monitor,Tech World,205,117,5,1025,440,1025
+ORD0142,2021-02-21,Samsung,Galaxy Watch 6,South,"GPS, AMOLED, GPS + Cellular",Tech World,354,262,8,2832,736,2832
+ORD0143,2020-07-16,Samsung,Galaxy Watch 6,North,"GPS, Military Std",Fit Gear,368,332,5,1840,180,1840
+ORD0144,2023-06-13,Fitbit,Versa 4,South,"GPS, Military Std, Health Monitor",Online Mart,217,118,3,651,297,651
+ORD0145,2023-12-04,Amazfit,GTR 4,West,"Rugged, Military Std",Digital Mall,202,182,5,1010,100,1010
+ORD0146,2021-07-30,Amazfit,GTR 4,South,Sleep Track,Gadget Zone,200,152,7,1400,336,1400
+ORD0147,2024-08-12,Apple,Watch Ultra 2,North,"GPS, GPS + Cellular",Fit Gear,796,772,6,4776,144,4776
+ORD0148,2020-04-14,Amazfit,T-Rex 2,North,"AMOLED, EDA Sensor",Gadget Zone,242,153,8,1936,712,1936
+ORD0149,2024-03-15,Samsung,Galaxy Watch 6,North,"Rugged, Military Std",Tech World,373,330,1,373,43,373
+ORD0150,2022-11-27,Samsung,Galaxy Watch 5,Central,"GPS, GPS + Cellular, Sleep Track",Online Mart,317,237,7,2219,560,2219
+ORD0151,2022-03-06,Amazfit,GTS 4 Mini,South,"GPS, GPS + Cellular, Health Monitor",Tech World,123,73,6,738,300,738
+ORD0152,2023-12-25,Apple,Watch Series 8,North,"GPS + Cellular, EDA Sensor",Digital Mall,349,257,7,2443,644,2443
+ORD0153,2021-11-13,Samsung,Galaxy Watch 5,South,"Health Monitor, GPS",Fit Gear,337,288,6,2022,294,2022
+ORD0154,2024-03-18,Amazfit,T-Rex 2,West,"Military Std, GPS",SmartTech,218,164,4,872,216,872
+ORD0155,2021-01-19,Apple,Watch Ultra 2,Central,Rugged,iHub,703,637,1,703,66,703
+ORD0156,2023-08-19,Apple,Watch Series 9,East,GPS + Cellular,Tech World,459,424,10,4590,350,4590
+ORD0157,2021-01-11,Apple,Watch Series 8,Central,"GPS, Bluetooth Only, EDA Sensor",Gadget Zone,385,356,8,3080,232,3080
+ORD0158,2022-11-24,Amazfit,GTR 4,Central,"EDA Sensor, Military Std",Online Mart,196,105,5,980,455,980
+ORD0159,2021-07-16,Apple,Watch Ultra 2,Central,Bluetooth Only,Fit Gear,712,625,9,6408,783,6408
+ORD0160,2022-10-15,Apple,Watch Ultra 2,Central,"EDA Sensor, Bluetooth Only",Online Mart,726,681,3,2178,135,2178
+ORD0161,2022-07-23,Garmin,Instinct 2,North,Military Std,Fit Gear,347,274,5,1735,365,1735
+ORD0162,2024-11-13,Apple,Watch Series 9,Central,"GPS, Bluetooth Only, Military Std",Tech World,447,404,3,1341,129,1341
+ORD0163,2024-11-09,Garmin,Instinct 2,West,"Health Monitor, EDA Sensor",Digital Mall,332,310,6,1992,132,1992
+ORD0164,2021-01-09,Garmin,Venu 2,South,"Sleep Track, EDA Sensor, GPS",iHub,386,309,4,1544,308,1544
+ORD0165,2021-12-18,Samsung,Galaxy Watch 5,North,"Sleep Track, EDA Sensor",Gadget Zone,336,259,7,2352,539,2352
+ORD0166,2021-08-29,Samsung,Galaxy Watch 6,West,"Sleep Track, Military Std",SmartTech,373,275,5,1865,490,1865
+ORD0167,2024-03-15,Garmin,Instinct 2,North,"Bluetooth Only, Military Std",SmartTech,325,269,4,1300,224,1300
+ORD0168,2023-08-13,Garmin,Forerunner 955,South,AMOLED,Digital Mall,504,415,6,3024,534,3024
+ORD0169,2021-02-23,Amazfit,GTS 4 Mini,Central,"EDA Sensor, Bluetooth Only",SmartTech,106,16,7,742,630,742
+ORD0170,2021-02-05,Fitbit,Sense 2,Central,"GPS, Bluetooth Only",iHub,262,201,3,786,183,786
+ORD0171,2021-11-09,Fitbit,Versa 4,South,Health Monitor,Online Mart,208,111,1,208,97,208
+ORD0172,2020-06-06,Apple,Watch Series 8,North,"Sleep Track, Military Std, Health Monitor",iHub,367,311,7,2569,392,2569
+ORD0173,2024-09-11,Garmin,Instinct 2,North,"GPS + Cellular, Health Monitor, Bluetooth Only",SmartTech,333,253,10,3330,800,3330
+ORD0174,2021-01-12,Garmin,Forerunner 955,Central,"Health Monitor, EDA Sensor",iHub,518,489,10,5180,290,5180
+ORD0175,2023-11-28,Garmin,Forerunner 955,West,"Military Std, Rugged, AMOLED",Tech World,533,513,6,3198,120,3198
+ORD0176,2023-05-10,Apple,Watch Series 8,North,"GPS + Cellular, GPS, Sleep Track",Tech World,397,342,9,3573,495,3573
+ORD0177,2022-01-26,Apple,Watch Series 9,Central,Rugged,SmartTech,495,440,5,2475,275,2475
+ORD0178,2020-11-03,Amazfit,GTS 4 Mini,West,AMOLED,Digital Mall,106,74,3,318,96,318
+ORD0179,2023-04-12,Amazfit,T-Rex 2,West,Rugged,Tech World,238,158,9,2142,720,2142
+ORD0180,2024-09-29,Samsung,Galaxy Watch 6,North,"GPS, Health Monitor",Gadget Zone,358,329,10,3580,290,3580
+ORD0181,2020-09-16,Fitbit,Charge 6,North,"Sleep Track, Rugged",SmartTech,151,77,10,1510,740,1510
+ORD0182,2020-06-28,Samsung,Galaxy Watch 5,North,Military Std,Online Mart,317,278,9,2853,351,2853
+ORD0183,2022-03-09,Apple,Watch SE,South,"GPS, Sleep Track, EDA Sensor",Tech World,276,237,8,2208,312,2208
+ORD0184,2020-03-05,Amazfit,GTS 4 Mini,Central,"Bluetooth Only, EDA Sensor, Health Monitor",SmartTech,122,25,1,122,97,122
+ORD0185,2021-10-17,Fitbit,Charge 6,South,Health Monitor,Digital Mall,140,41,3,420,297,420
+ORD0186,2022-10-04,Garmin,Forerunner 955,West,Health Monitor,Fit Gear,519,491,5,2595,140,2595
+ORD0187,2023-11-20,Samsung,Galaxy Watch 6,West,"EDA Sensor, AMOLED, GPS + Cellular",Gadget Zone,373,273,9,3357,900,3357
+ORD0188,2023-04-22,Amazfit,GTS 4 Mini,East,"Rugged, Sleep Track, Bluetooth Only",SmartTech,124,61,4,496,252,496
+ORD0189,2022-11-21,Samsung,Galaxy Watch 5,North,Sleep Track,iHub,345,284,3,1035,183,1035
+ORD0190,2022-07-09,Garmin,Instinct 2,North,Health Monitor,Fit Gear,331,269,9,2979,558,2979
+ORD0191,2024-09-21,Apple,Watch SE,South,Military Std,SmartTech,257,173,9,2313,756,2313
+ORD0192,2024-04-22,Apple,Watch Ultra 2,West,GPS + Cellular,Online Mart,735,693,4,2940,168,2940
+ORD0193,2021-09-09,Samsung,Galaxy Watch 6,West,"Sleep Track, Military Std, Health Monitor",Gadget Zone,351,317,7,2457,238,2457
+ORD0194,2024-01-26,Apple,Watch Series 9,North,AMOLED,Fit Gear,416,330,10,4160,860,4160
+ORD0195,2021-02-04,Amazfit,GTS 4 Mini,Central,Military Std,Fit Gear,107,23,9,963,756,963
+ORD0196,2022-09-25,Garmin,Instinct 2,Central,"Health Monitor, Military Std, AMOLED",iHub,319,242,6,1914,462,1914
+ORD0197,2020-07-24,Garmin,Instinct 2,West,"Bluetooth Only, GPS + Cellular, Health Monitor",Online Mart,303,214,3,909,267,909
+ORD0198,2024-06-23,Apple,Watch Series 8,South,"Health Monitor, Rugged",SmartTech,384,292,4,1536,368,1536
+ORD0199,2023-07-23,Apple,Watch Series 8,East,Sleep Track,SmartTech,372,319,5,1860,265,1860
+ORD0200,2023-06-26,Amazfit,GTR 4,East,"AMOLED, Health Monitor, Sleep Track",Online Mart,184,93,4,736,364,736
+ORD0201,2020-06-11,Garmin,Instinct 2,South,"GPS + Cellular, AMOLED",iHub,311,253,2,622,116,622
+ORD0202,2024-04-17,Garmin,Venu 2,South,GPS,Tech World,392,327,2,784,130,784
+ORD0203,2023-01-21,Apple,Watch SE,Central,"Rugged, GPS + Cellular",iHub,249,209,5,1245,200,1245
+ORD0204,2022-06-08,Garmin,Forerunner 955,South,"AMOLED, GPS + Cellular",Online Mart,544,450,1,544,94,544
+ORD0205,2020-07-06,Fitbit,Charge 6,East,"Bluetooth Only, AMOLED",Tech World,145,82,8,1160,504,1160
+ORD0206,2022-04-28,Amazfit,GTR 4,North,Health Monitor,iHub,191,146,1,191,45,191
+ORD0207,2024-07-23,Amazfit,GTR 4,West,"Bluetooth Only, GPS, Health Monitor",Fit Gear,228,189,2,456,78,456
+ORD0208,2021-06-13,Samsung,Galaxy Watch 5,Central,"Bluetooth Only, Sleep Track",Digital Mall,318,240,2,636,156,636
+ORD0209,2021-03-14,Amazfit,GTR 4,West,"Health Monitor, GPS + Cellular",iHub,224,171,4,896,212,896
+ORD0210,2021-04-07,Amazfit,T-Rex 2,South,"EDA Sensor, Sleep Track, GPS",iHub,226,205,8,1808,168,1808
+ORD0211,2022-12-21,Garmin,Forerunner 955,Central,"GPS + Cellular, EDA Sensor",Gadget Zone,531,477,3,1593,162,1593
+ORD0212,2024-06-21,Samsung,Galaxy Watch 6,Central,EDA Sensor,Tech World,366,337,8,2928,232,2928
+ORD0213,2022-04-23,Fitbit,Versa 4,South,"AMOLED, Sleep Track, Health Monitor",Digital Mall,211,168,3,633,129,633
+ORD0214,2024-12-20,Fitbit,Versa 4,West,"Military Std, GPS, Health Monitor",Fit Gear,207,155,6,1242,312,1242
+ORD0215,2023-01-08,Samsung,Galaxy Watch 6,North,"Rugged, GPS + Cellular, Bluetooth Only",iHub,329,291,1,329,38,329
+ORD0216,2022-10-07,Amazfit,GTS 4 Mini,Central,"Military Std, AMOLED",iHub,105,6,7,735,693,735
+ORD0217,2021-07-16,Apple,Watch SE,West,"Sleep Track, Bluetooth Only, AMOLED",SmartTech,259,164,7,1813,665,1813
+ORD0218,2024-11-07,Amazfit,GTS 4 Mini,North,"AMOLED, Rugged, Health Monitor",Tech World,113,85,2,226,56,226
+ORD0219,2024-04-26,Fitbit,Charge 6,West,"Military Std, Bluetooth Only",Gadget Zone,153,132,2,306,42,306
+ORD0220,2024-06-05,Garmin,Venu 2,North,"Bluetooth Only, Health Monitor",SmartTech,358,311,4,1432,188,1432
+ORD0221,2022-02-04,Amazfit,T-Rex 2,East,"GPS + Cellular, AMOLED, EDA Sensor",Fit Gear,201,131,6,1206,420,1206
+ORD0222,2023-03-06,Garmin,Instinct 2,South,"AMOLED, Rugged, Health Monitor",Tech World,345,296,4,1380,196,1380
+ORD0223,2024-09-25,Samsung,Galaxy Watch 5,South,Health Monitor,Gadget Zone,347,248,7,2429,693,2429
+ORD0224,2023-02-17,Amazfit,T-Rex 2,North,GPS,Tech World,236,152,8,1888,672,1888
+ORD0225,2020-01-05,Samsung,Galaxy Watch 6,East,"Rugged, Bluetooth Only",SmartTech,333,253,4,1332,320,1332
+ORD0226,2024-10-16,Samsung,Galaxy Watch 6,West,"GPS, AMOLED, Sleep Track",Online Mart,379,314,5,1895,325,1895
+ORD0227,2024-10-02,Amazfit,GTS 4 Mini,South,EDA Sensor,Fit Gear,112,81,9,1008,279,1008
+ORD0228,2024-10-17,Samsung,Galaxy Watch 6,South,"AMOLED, Bluetooth Only, Sleep Track",SmartTech,346,256,9,3114,810,3114
+ORD0229,2021-11-14,Amazfit,GTS 4 Mini,Central,"Military Std, GPS + Cellular, AMOLED",Fit Gear,108,36,9,972,648,972
+ORD0230,2020-04-30,Garmin,Venu 2,South,"Rugged, GPS",Digital Mall,384,313,6,2304,426,2304
+ORD0231,2024-11-15,Amazfit,T-Rex 2,East,"GPS + Cellular, Military Std, Health Monitor",SmartTech,199,134,9,1791,585,1791
+ORD0232,2024-09-15,Amazfit,GTS 4 Mini,West,"AMOLED, GPS + Cellular",Tech World,116,80,7,812,252,812
+ORD0233,2024-12-28,Samsung,Galaxy Watch 6,West,"Rugged, Sleep Track, EDA Sensor",Fit Gear,371,287,5,1855,420,1855
+ORD0234,2024-01-28,Amazfit,T-Rex 2,South,"Rugged, EDA Sensor, AMOLED",Fit Gear,225,176,8,1800,392,1800
+ORD0235,2022-02-03,Samsung,Galaxy Watch 6,Central,"AMOLED, Military Std, Sleep Track",Fit Gear,351,320,2,702,62,702
+ORD0236,2020-06-18,Samsung,Galaxy Watch 6,South,"Sleep Track, Rugged",iHub,342,246,4,1368,384,1368
+ORD0237,2020-10-30,Amazfit,T-Rex 2,West,"GPS, Bluetooth Only, Military Std",iHub,241,155,9,2169,774,2169
+ORD0238,2020-08-02,Apple,Watch Series 8,Central,"Health Monitor, EDA Sensor",Gadget Zone,377,302,10,3770,750,3770
+ORD0239,2020-03-30,Samsung,Galaxy Watch 6,North,"GPS + Cellular, Health Monitor, Military Std",iHub,338,310,3,1014,84,1014
+ORD0240,2020-10-30,Garmin,Venu 2,West,"Health Monitor, AMOLED, Bluetooth Only",Tech World,374,328,4,1496,184,1496
+ORD0241,2020-07-20,Garmin,Forerunner 955,East,Military Std,Tech World,521,483,6,3126,228,3126
+ORD0242,2023-08-06,Apple,Watch Ultra 2,Central,Bluetooth Only,Fit Gear,795,734,10,7950,610,7950
+ORD0243,2020-10-29,Apple,Watch Ultra 2,East,"GPS + Cellular, Health Monitor",iHub,769,708,6,4614,366,4614
+ORD0244,2023-12-22,Apple,Watch SE,West,Sleep Track,SmartTech,251,198,10,2510,530,2510
+ORD0245,2021-03-14,Amazfit,GTR 4,North,"Bluetooth Only, GPS, Rugged",Gadget Zone,189,111,6,1134,468,1134
+ORD0246,2020-02-17,Amazfit,GTS 4 Mini,Central,"Rugged, Bluetooth Only",iHub,119,38,9,1071,729,1071
+ORD0247,2024-03-31,Samsung,Galaxy Watch 6,West,"AMOLED, EDA Sensor",Online Mart,337,238,4,1348,396,1348
+ORD0248,2020-06-24,Apple,Watch SE,East,GPS,iHub,279,193,5,1395,430,1395
+ORD0249,2020-12-17,Fitbit,Versa 4,North,"Military Std, Health Monitor, AMOLED",iHub,210,111,1,210,99,210
+ORD0250,2023-04-01,Amazfit,T-Rex 2,South,"AMOLED, Bluetooth Only, GPS",Fit Gear,237,206,7,1659,217,1659
+ORD0251,2020-05-17,Garmin,Forerunner 955,East,"AMOLED, Military Std",SmartTech,513,480,2,1026,66,1026
+ORD0252,2020-03-22,Samsung,Galaxy Watch 6,Central,"EDA Sensor, Sleep Track",Digital Mall,355,326,1,355,29,355
+ORD0253,2024-02-12,Apple,Watch Series 8,East,"GPS, AMOLED, Sleep Track",Fit Gear,374,313,4,1496,244,1496
+ORD0254,2023-06-27,Amazfit,GTS 4 Mini,East,GPS,Online Mart,101,51,10,1010,500,1010
+ORD0255,2022-10-14,Amazfit,T-Rex 2,North,"GPS, Sleep Track",iHub,249,182,8,1992,536,1992
+ORD0256,2023-06-15,Apple,Watch Series 9,West,"Health Monitor, Sleep Track, GPS",Online Mart,491,429,9,4419,558,4419
+ORD0257,2022-10-20,Samsung,Galaxy Watch 5,Central,Sleep Track,Digital Mall,306,281,10,3060,250,3060
+ORD0258,2024-05-27,Garmin,Forerunner 955,North,"EDA Sensor, Sleep Track",Gadget Zone,516,441,9,4644,675,4644
+ORD0259,2021-01-06,Amazfit,GTS 4 Mini,West,"Military Std, Sleep Track, GPS",Gadget Zone,111,66,5,555,225,555
+ORD0260,2021-02-07,Garmin,Venu 2,West,GPS,Digital Mall,366,344,6,2196,132,2196
+ORD0261,2020-03-31,Apple,Watch Series 9,East,"Rugged, Health Monitor",Tech World,469,403,5,2345,330,2345
+ORD0262,2021-12-26,Samsung,Galaxy Watch 5,South,"Bluetooth Only, Military Std",SmartTech,338,293,10,3380,450,3380
+ORD0263,2023-11-25,Apple,Watch Ultra 2,North,"AMOLED, Bluetooth Only",SmartTech,715,678,2,1430,74,1430
+ORD0264,2020-03-29,Garmin,Venu 2,East,"AMOLED, GPS",Online Mart,382,332,3,1146,150,1146
+ORD0265,2024-03-14,Garmin,Forerunner 955,West,"GPS, Rugged, Bluetooth Only",Fit Gear,546,483,5,2730,315,2730
+ORD0266,2024-11-07,Samsung,Galaxy Watch 6,North,Sleep Track,Fit Gear,363,308,7,2541,385,2541
+ORD0267,2020-11-02,Garmin,Instinct 2,South,"Military Std, GPS + Cellular, GPS",Fit Gear,315,285,6,1890,180,1890
+ORD0268,2022-02-01,Garmin,Forerunner 955,Central,GPS,SmartTech,544,494,3,1632,150,1632
+ORD0269,2021-05-22,Amazfit,GTR 4,East,"Military Std, Sleep Track, GPS + Cellular",Tech World,222,122,7,1554,700,1554
+ORD0270,2022-01-25,Garmin,Venu 2,South,"Military Std, Sleep Track, Rugged",Online Mart,398,368,1,398,30,398
+ORD0271,2024-10-25,Garmin,Instinct 2,South,"AMOLED, Military Std, GPS",SmartTech,323,264,5,1615,295,1615
+ORD0272,2024-03-18,Apple,Watch Series 8,South,"Sleep Track, Health Monitor",Tech World,351,329,5,1755,110,1755
+ORD0273,2023-04-21,Apple,Watch Series 9,West,EDA Sensor,Tech World,463,404,3,1389,177,1389
+ORD0274,2022-02-10,Amazfit,GTS 4 Mini,South,Bluetooth Only,Digital Mall,104,4,4,416,400,416
+ORD0275,2020-01-20,Garmin,Forerunner 955,South,"Sleep Track, GPS + Cellular, GPS",SmartTech,531,474,7,3717,399,3717
+ORD0276,2024-03-28,Fitbit,Versa 4,South,"Military Std, GPS + Cellular",Tech World,216,124,2,432,184,432
+ORD0277,2024-07-03,Fitbit,Versa 4,West,"Bluetooth Only, EDA Sensor, Military Std",Gadget Zone,224,186,5,1120,190,1120
+ORD0278,2023-03-02,Apple,Watch Series 8,South,"Sleep Track, Rugged, EDA Sensor",Tech World,355,261,9,3195,846,3195
+ORD0279,2022-01-29,Apple,Watch SE,West,"Health Monitor, Bluetooth Only",Gadget Zone,269,212,5,1345,285,1345
+ORD0280,2023-03-07,Garmin,Forerunner 955,East,"AMOLED, Health Monitor",iHub,530,471,5,2650,295,2650
+ORD0281,2023-12-18,Amazfit,GTR 4,East,"EDA Sensor, Health Monitor",Tech World,202,156,8,1616,368,1616
+ORD0282,2024-04-24,Apple,Watch SE,North,"GPS + Cellular, GPS",Tech World,276,177,2,552,198,552
+ORD0283,2024-08-09,Apple,Watch Series 8,West,Military Std,Tech World,371,298,7,2597,511,2597
+ORD0284,2020-06-06,Garmin,Forerunner 955,East,"EDA Sensor, Military Std",Online Mart,521,483,3,1563,114,1563
+ORD0285,2020-02-14,Amazfit,GTS 4 Mini,North,"Bluetooth Only, Rugged, Health Monitor",SmartTech,126,43,5,630,415,630
+ORD0286,2024-08-08,Apple,Watch Ultra 2,North,"Military Std, GPS",Digital Mall,776,756,2,1552,40,1552
+ORD0287,2023-07-20,Apple,Watch SE,West,"AMOLED, GPS, GPS + Cellular",iHub,279,198,9,2511,729,2511
+ORD0288,2023-06-01,Amazfit,GTR 4,West,GPS + Cellular,Fit Gear,214,129,10,2140,850,2140
+ORD0289,2021-06-26,Garmin,Venu 2,East,"AMOLED, EDA Sensor",SmartTech,395,325,5,1975,350,1975
+ORD0290,2023-05-09,Apple,Watch Series 8,West,Bluetooth Only,Online Mart,387,312,4,1548,300,1548
+ORD0291,2022-07-02,Samsung,Galaxy Watch 5,South,"GPS, Military Std, AMOLED",Fit Gear,314,246,7,2198,476,2198
+ORD0292,2020-07-18,Amazfit,GTR 4,South,"GPS + Cellular, Rugged",SmartTech,206,124,2,412,164,412
+ORD0293,2023-02-12,Samsung,Galaxy Watch 5,North,GPS,iHub,345,312,3,1035,99,1035
+ORD0294,2024-03-08,Samsung,Galaxy Watch 6,South,"Bluetooth Only, Military Std",SmartTech,378,353,3,1134,75,1134
+ORD0295,2020-12-02,Amazfit,T-Rex 2,North,Military Std,Online Mart,199,176,4,796,92,796
+ORD0296,2024-01-15,Garmin,Forerunner 955,Central,Military Std,Digital Mall,524,503,2,1048,42,1048
+ORD0297,2021-01-05,Amazfit,GTR 4,East,"GPS, Rugged, Bluetooth Only",Fit Gear,197,99,9,1773,882,1773
+ORD0298,2022-03-16,Fitbit,Versa 4,Central,"AMOLED, Rugged",iHub,204,134,4,816,280,816
+ORD0299,2022-03-07,Garmin,Instinct 2,North,"Rugged, Health Monitor",Tech World,301,253,2,602,96,602
+ORD0300,2022-05-08,Garmin,Forerunner 955,West,Military Std,Tech World,507,443,2,1014,128,1014
+ORD0301,2020-01-29,Apple,Watch SE,West,"EDA Sensor, GPS, Rugged",Digital Mall,275,178,7,1925,679,1925
+ORD0302,2024-01-28,Garmin,Instinct 2,East,"Military Std, Bluetooth Only, AMOLED",SmartTech,345,245,6,2070,600,2070
+ORD0303,2022-10-12,Apple,Watch Series 8,West,Health Monitor,iHub,359,267,4,1436,368,1436
+ORD0304,2024-05-20,Apple,Watch SE,South,Health Monitor,Tech World,277,217,1,277,60,277
+ORD0305,2022-07-07,Samsung,Galaxy Watch 5,Central,"Military Std, EDA Sensor",SmartTech,299,236,10,2990,630,2990
+ORD0306,2021-01-09,Samsung,Galaxy Watch 5,South,"GPS + Cellular, Health Monitor",Digital Mall,335,301,1,335,34,335
+ORD0307,2022-09-04,Fitbit,Charge 6,Central,"GPS + Cellular, Bluetooth Only",Gadget Zone,139,40,4,556,396,556
+ORD0308,2021-11-29,Samsung,Galaxy Watch 5,Central,"Sleep Track, EDA Sensor",SmartTech,326,295,6,1956,186,1956
+ORD0309,2022-03-09,Fitbit,Charge 6,West,EDA Sensor,SmartTech,147,123,6,882,144,882
+ORD0310,2022-05-13,Samsung,Galaxy Watch 6,Central,Health Monitor,Fit Gear,350,272,6,2100,468,2100
+ORD0311,2024-11-29,Amazfit,T-Rex 2,Central,Military Std,Digital Mall,238,218,8,1904,160,1904
+ORD0312,2022-06-28,Amazfit,T-Rex 2,North,"GPS + Cellular, Health Monitor, AMOLED",Tech World,221,143,5,1105,390,1105
+ORD0313,2024-11-08,Apple,Watch Series 8,North,Rugged,SmartTech,387,308,1,387,79,387
+ORD0314,2020-01-11,Amazfit,GTR 4,North,"GPS + Cellular, Bluetooth Only, Rugged",iHub,206,121,5,1030,425,1030
+ORD0315,2024-09-24,Garmin,Instinct 2,South,Military Std,Fit Gear,348,297,5,1740,255,1740
+ORD0316,2020-11-23,Garmin,Forerunner 955,East,"Rugged, AMOLED, Sleep Track",Gadget Zone,523,433,8,4184,720,4184
+ORD0317,2021-06-09,Apple,Watch Series 8,South,"GPS + Cellular, GPS",iHub,398,348,8,3184,400,3184
+ORD0318,2021-08-29,Amazfit,GTS 4 Mini,East,"Health Monitor, Sleep Track, GPS + Cellular",Digital Mall,129,49,1,129,80,129
+ORD0319,2020-05-26,Garmin,Instinct 2,West,"Health Monitor, Military Std, GPS",Gadget Zone,346,317,2,692,58,692
+ORD0320,2022-03-20,Amazfit,T-Rex 2,East,"Sleep Track, GPS",Fit Gear,247,179,5,1235,340,1235
+ORD0321,2021-12-12,Fitbit,Versa 4,Central,Health Monitor,Tech World,212,140,1,212,72,212
+ORD0322,2024-01-18,Garmin,Forerunner 955,West,"Bluetooth Only, GPS, EDA Sensor",Gadget Zone,546,497,9,4914,441,4914
+ORD0323,2023-03-18,Samsung,Galaxy Watch 5,Central,Health Monitor,Tech World,305,278,3,915,81,915
+ORD0324,2020-07-19,Fitbit,Sense 2,South,"Rugged, Bluetooth Only, Military Std",SmartTech,284,242,5,1420,210,1420
+ORD0325,2024-08-10,Samsung,Galaxy Watch 5,Central,GPS + Cellular,Online Mart,342,271,7,2394,497,2394
+ORD0326,2022-04-28,Apple,Watch Series 9,South,Bluetooth Only,SmartTech,430,356,6,2580,444,2580
+ORD0327,2022-08-20,Garmin,Instinct 2,Central,"GPS + Cellular, Military Std, EDA Sensor",Fit Gear,335,292,3,1005,129,1005
+ORD0328,2023-06-24,Amazfit,GTS 4 Mini,North,Health Monitor,Tech World,124,94,8,992,240,992
+ORD0329,2022-01-23,Garmin,Venu 2,South,Bluetooth Only,SmartTech,353,324,1,353,29,353
+ORD0330,2023-02-16,Samsung,Galaxy Watch 6,Central,"Health Monitor, GPS, GPS + Cellular",Online Mart,345,301,7,2415,308,2415
+ORD0331,2021-06-21,Samsung,Galaxy Watch 6,East,Health Monitor,Digital Mall,329,265,7,2303,448,2303
+ORD0332,2023-11-18,Apple,Watch SE,East,"Health Monitor, AMOLED, GPS",Fit Gear,271,239,5,1355,160,1355
+ORD0333,2024-12-22,Amazfit,GTR 4,South,"GPS, GPS + Cellular, Bluetooth Only",Online Mart,215,143,6,1290,432,1290
+ORD0334,2020-03-19,Samsung,Galaxy Watch 6,West,GPS,Gadget Zone,374,280,9,3366,846,3366
+ORD0335,2021-08-01,Fitbit,Versa 4,West,"GPS, EDA Sensor, AMOLED",Tech World,223,195,10,2230,280,2230
+ORD0336,2023-07-30,Fitbit,Sense 2,North,Military Std,Fit Gear,296,256,8,2368,320,2368
+ORD0337,2022-08-13,Garmin,Venu 2,West,"Rugged, Health Monitor",Fit Gear,352,312,10,3520,400,3520
+ORD0338,2021-08-02,Amazfit,T-Rex 2,East,"Health Monitor, AMOLED, Rugged",Online Mart,247,215,4,988,128,988
+ORD0339,2021-08-11,Fitbit,Versa 4,Central,GPS,iHub,219,194,9,1971,225,1971
+ORD0340,2024-12-08,Garmin,Instinct 2,West,GPS + Cellular,iHub,316,251,5,1580,325,1580
+ORD0341,2022-03-30,Fitbit,Charge 6,West,"GPS, Military Std, AMOLED",Tech World,142,44,7,994,686,994
+ORD0342,2023-05-17,Garmin,Forerunner 955,East,"Military Std, GPS",iHub,519,441,2,1038,156,1038
+ORD0343,2020-04-09,Fitbit,Versa 4,Central,"AMOLED, Health Monitor",Digital Mall,221,186,7,1547,245,1547
+ORD0344,2020-10-03,Samsung,Galaxy Watch 5,West,"Bluetooth Only, Health Monitor, GPS + Cellular",Tech World,338,292,8,2704,368,2704
+ORD0345,2022-06-27,Samsung,Galaxy Watch 6,North,AMOLED,Gadget Zone,340,257,1,340,83,340
+ORD0346,2021-07-16,Samsung,Galaxy Watch 6,South,"AMOLED, Bluetooth Only, EDA Sensor",Tech World,371,332,2,742,78,742
+ORD0347,2020-03-09,Garmin,Forerunner 955,West,"Health Monitor, GPS + Cellular",Tech World,500,468,9,4500,288,4500
+ORD0348,2024-11-07,Samsung,Galaxy Watch 5,West,GPS + Cellular,Fit Gear,346,309,8,2768,296,2768
+ORD0349,2021-11-11,Garmin,Instinct 2,South,"Military Std, EDA Sensor, Sleep Track",Tech World,344,292,8,2752,416,2752
+ORD0350,2022-12-28,Garmin,Instinct 2,East,Bluetooth Only,Digital Mall,336,278,3,1008,174,1008
+ORD0351,2021-12-02,Apple,Watch Ultra 2,North,"EDA Sensor, Sleep Track",Gadget Zone,769,672,2,1538,194,1538
+ORD0352,2020-11-07,Fitbit,Versa 4,North,"Bluetooth Only, EDA Sensor, GPS + Cellular",Gadget Zone,216,157,8,1728,472,1728
+ORD0353,2023-10-19,Amazfit,T-Rex 2,North,"Rugged, GPS",Online Mart,228,132,6,1368,576,1368
+ORD0354,2021-04-12,Fitbit,Versa 4,East,Rugged,Digital Mall,222,125,6,1332,582,1332
+ORD0355,2022-02-10,Apple,Watch Series 8,East,"Military Std, EDA Sensor, Health Monitor",Digital Mall,365,292,4,1460,292,1460
+ORD0356,2024-10-08,Fitbit,Versa 4,South,"Rugged, Military Std, AMOLED",Digital Mall,225,179,10,2250,460,2250
+ORD0357,2023-04-09,Apple,Watch Ultra 2,East,"Sleep Track, GPS + Cellular, AMOLED",Online Mart,710,632,7,4970,546,4970
+ORD0358,2020-10-01,Apple,Watch Ultra 2,West,"Health Monitor, Bluetooth Only",Gadget Zone,741,700,5,3705,205,3705
+ORD0359,2023-02-16,Samsung,Galaxy Watch 5,West,"Health Monitor, Rugged, GPS",Digital Mall,313,227,10,3130,860,3130
+ORD0360,2021-07-25,Garmin,Instinct 2,Central,"Military Std, Bluetooth Only, Health Monitor",Online Mart,349,253,5,1745,480,1745
+ORD0361,2022-03-27,Samsung,Galaxy Watch 6,West,"Sleep Track, AMOLED",Fit Gear,375,330,8,3000,360,3000
+ORD0362,2021-07-05,Amazfit,GTR 4,Central,"Bluetooth Only, Rugged, Health Monitor",iHub,202,151,2,404,102,404
+ORD0363,2023-02-05,Amazfit,T-Rex 2,East,"GPS + Cellular, Health Monitor",Fit Gear,239,185,4,956,216,956
+ORD0364,2024-09-11,Fitbit,Charge 6,West,"GPS + Cellular, GPS, AMOLED",Tech World,147,125,4,588,88,588
+ORD0365,2024-03-18,Garmin,Instinct 2,North,"Sleep Track, Health Monitor",Fit Gear,343,276,6,2058,402,2058
+ORD0366,2020-10-18,Fitbit,Sense 2,East,"EDA Sensor, Health Monitor, Military Std",SmartTech,291,265,5,1455,130,1455
+ORD0367,2020-06-29,Samsung,Galaxy Watch 5,South,"GPS, Sleep Track, AMOLED",Fit Gear,345,313,8,2760,256,2760
+ORD0368,2020-01-10,Garmin,Venu 2,North,EDA Sensor,Online Mart,370,326,6,2220,264,2220
+ORD0369,2022-03-04,Apple,Watch SE,North,"GPS, Rugged, AMOLED",Digital Mall,256,160,5,1280,480,1280
+ORD0370,2020-06-02,Garmin,Instinct 2,South,"Bluetooth Only, Rugged, Sleep Track",iHub,320,267,4,1280,212,1280
+ORD0371,2022-12-13,Amazfit,GTR 4,North,Bluetooth Only,Online Mart,181,114,7,1267,469,1267
+ORD0372,2024-01-03,Fitbit,Charge 6,North,"GPS, Military Std, Bluetooth Only",Digital Mall,149,81,4,596,272,596
+ORD0373,2023-08-05,Fitbit,Sense 2,West,"Military Std, Rugged, GPS + Cellular",Online Mart,270,183,10,2700,870,2700
+ORD0374,2020-05-28,Garmin,Forerunner 955,Central,Bluetooth Only,Gadget Zone,504,456,2,1008,96,1008
+ORD0375,2021-02-02,Amazfit,GTS 4 Mini,South,GPS + Cellular,Online Mart,120,91,8,960,232,960
+ORD0376,2023-06-23,Amazfit,T-Rex 2,South,EDA Sensor,SmartTech,231,168,9,2079,567,2079
+ORD0377,2020-08-10,Samsung,Galaxy Watch 6,South,"EDA Sensor, AMOLED, Military Std",Online Mart,342,315,2,684,54,684
+ORD0378,2020-06-26,Amazfit,T-Rex 2,West,"Bluetooth Only, Military Std, EDA Sensor",Online Mart,229,148,2,458,162,458
+ORD0379,2020-07-05,Fitbit,Versa 4,South,"Health Monitor, Military Std, Rugged",Online Mart,214,133,10,2140,810,2140
+ORD0380,2022-04-27,Fitbit,Charge 6,North,"EDA Sensor, Rugged, GPS",Fit Gear,137,76,6,822,366,822
+ORD0381,2020-07-16,Fitbit,Charge 6,South,"Military Std, Health Monitor, GPS + Cellular",Tech World,140,94,10,1400,460,1400
+ORD0382,2023-04-18,Amazfit,GTR 4,Central,"Rugged, AMOLED, Military Std",Fit Gear,189,119,10,1890,700,1890
+ORD0383,2022-12-21,Fitbit,Charge 6,North,"Health Monitor, Military Std",SmartTech,141,121,7,987,140,987
+ORD0384,2022-08-31,Amazfit,T-Rex 2,West,EDA Sensor,Tech World,220,181,5,1100,195,1100
+ORD0385,2024-02-21,Samsung,Galaxy Watch 6,East,EDA Sensor,SmartTech,355,277,7,2485,546,2485
+ORD0386,2020-06-30,Garmin,Venu 2,East,"Bluetooth Only, GPS + Cellular, Sleep Track",iHub,370,283,6,2220,522,2220
+ORD0387,2024-07-02,Amazfit,T-Rex 2,South,"EDA Sensor, Bluetooth Only",SmartTech,242,144,10,2420,980,2420
+ORD0388,2021-08-14,Fitbit,Charge 6,Central,"AMOLED, GPS + Cellular, Sleep Track",iHub,156,56,3,468,300,468
+ORD0389,2023-05-20,Apple,Watch SE,West,"AMOLED, EDA Sensor, Sleep Track",SmartTech,259,195,6,1554,384,1554
+ORD0390,2023-12-07,Fitbit,Sense 2,North,"GPS + Cellular, Sleep Track, EDA Sensor",Tech World,288,240,4,1152,192,1152
+ORD0391,2023-08-13,Garmin,Instinct 2,Central,"Military Std, AMOLED",iHub,322,297,5,1610,125,1610
+ORD0392,2021-06-02,Samsung,Galaxy Watch 5,North,"AMOLED, Bluetooth Only, GPS + Cellular",Digital Mall,345,268,3,1035,231,1035
+ORD0393,2021-06-21,Apple,Watch Ultra 2,West,"Sleep Track, EDA Sensor, AMOLED",Gadget Zone,772,691,10,7720,810,7720
+ORD0394,2022-04-20,Garmin,Instinct 2,East,AMOLED,SmartTech,329,302,3,987,81,987
+ORD0395,2021-03-28,Apple,Watch Series 8,West,"Sleep Track, GPS + Cellular, Rugged",Fit Gear,393,338,4,1572,220,1572
+ORD0396,2021-07-30,Garmin,Forerunner 955,West,"Rugged, Bluetooth Only",Online Mart,507,477,6,3042,180,3042
+ORD0397,2020-02-03,Samsung,Galaxy Watch 5,West,"Rugged, EDA Sensor, Sleep Track",Digital Mall,341,248,10,3410,930,3410
+ORD0398,2022-12-29,Samsung,Galaxy Watch 6,East,"Health Monitor, Rugged, EDA Sensor",Fit Gear,339,295,2,678,88,678
+ORD0399,2020-06-21,Amazfit,T-Rex 2,West,Bluetooth Only,Digital Mall,214,130,3,642,252,642
+ORD0400,2022-02-05,Amazfit,GTR 4,Central,GPS,Gadget Zone,214,180,1,214,34,214
+ORD0401,2022-06-11,Apple,Watch Series 9,Central,GPS + Cellular,Tech World,488,422,7,3416,462,3416
+ORD0402,2021-07-18,Samsung,Galaxy Watch 6,Central,AMOLED,Digital Mall,334,295,6,2004,234,2004
+ORD0403,2021-09-09,Garmin,Instinct 2,Central,"Bluetooth Only, AMOLED, GPS + Cellular",Gadget Zone,335,293,9,3015,378,3015
+ORD0404,2020-01-01,Apple,Watch Series 9,South,"Military Std, GPS + Cellular",Digital Mall,492,446,5,2460,230,2460
+ORD0405,2024-01-06,Fitbit,Charge 6,North,"Military Std, Rugged",SmartTech,158,60,8,1264,784,1264
+ORD0406,2020-10-13,Samsung,Galaxy Watch 6,Central,"Health Monitor, EDA Sensor",Tech World,338,282,5,1690,280,1690
+ORD0407,2021-09-16,Amazfit,T-Rex 2,Central,"Bluetooth Only, EDA Sensor, Sleep Track",Fit Gear,210,170,3,630,120,630
+ORD0408,2024-03-15,Amazfit,GTR 4,North,Military Std,Gadget Zone,203,112,7,1421,637,1421
+ORD0409,2022-03-09,Fitbit,Versa 4,Central,"AMOLED, Bluetooth Only, Sleep Track",Tech World,226,179,2,452,94,452
+ORD0410,2023-04-01,Samsung,Galaxy Watch 6,West,"Bluetooth Only, Rugged",Digital Mall,364,304,7,2548,420,2548
+ORD0411,2023-03-04,Samsung,Galaxy Watch 6,East,"Military Std, GPS + Cellular, Bluetooth Only",SmartTech,362,331,3,1086,93,1086
+ORD0412,2020-12-09,Amazfit,GTR 4,South,"Military Std, Bluetooth Only",Gadget Zone,199,153,4,796,184,796
+ORD0413,2021-05-27,Garmin,Forerunner 955,East,"Health Monitor, Military Std",Tech World,527,507,3,1581,60,1581
+ORD0414,2020-08-24,Garmin,Instinct 2,Central,"AMOLED, GPS + Cellular",Gadget Zone,303,214,9,2727,801,2727
+ORD0415,2020-09-08,Garmin,Instinct 2,West,"GPS + Cellular, Bluetooth Only",SmartTech,335,255,5,1675,400,1675
+ORD0416,2023-05-09,Apple,Watch SE,North,"Military Std, Rugged",SmartTech,253,211,2,506,84,506
+ORD0417,2023-06-05,Fitbit,Versa 4,West,"AMOLED, Bluetooth Only, EDA Sensor",Tech World,217,190,2,434,54,434
+ORD0418,2020-08-10,Fitbit,Sense 2,East,"Health Monitor, EDA Sensor",iHub,279,245,2,558,68,558
+ORD0419,2024-01-13,Samsung,Galaxy Watch 6,Central,"EDA Sensor, GPS, AMOLED",Gadget Zone,365,333,3,1095,96,1095
+ORD0420,2024-01-20,Fitbit,Versa 4,Central,EDA Sensor,Gadget Zone,216,133,9,1944,747,1944
+ORD0421,2023-09-15,Fitbit,Versa 4,North,"EDA Sensor, AMOLED, Sleep Track",iHub,215,164,2,430,102,430
+ORD0422,2020-02-27,Garmin,Venu 2,South,"GPS, Rugged",Fit Gear,385,365,2,770,40,770
+ORD0423,2023-10-12,Amazfit,GTS 4 Mini,East,"Military Std, Health Monitor",iHub,114,59,6,684,330,684
+ORD0424,2020-09-12,Garmin,Forerunner 955,East,"GPS + Cellular, Health Monitor, Bluetooth Only",SmartTech,523,435,10,5230,880,5230
+ORD0425,2024-02-11,Fitbit,Sense 2,South,AMOLED,iHub,298,270,7,2086,196,2086
+ORD0426,2022-02-14,Apple,Watch Series 9,East,GPS,Online Mart,417,378,1,417,39,417
+ORD0427,2021-03-16,Apple,Watch Series 8,North,"Military Std, GPS, Bluetooth Only",Digital Mall,356,259,2,712,194,712
+ORD0428,2023-04-19,Garmin,Instinct 2,Central,"Rugged, EDA Sensor",iHub,347,254,7,2429,651,2429
+ORD0429,2023-11-15,Apple,Watch Ultra 2,West,"AMOLED, GPS + Cellular, EDA Sensor",Online Mart,784,685,10,7840,990,7840
+ORD0430,2021-07-17,Samsung,Galaxy Watch 5,East,"Rugged, GPS + Cellular",SmartTech,342,253,4,1368,356,1368
+ORD0431,2023-07-11,Fitbit,Charge 6,East,"AMOLED, EDA Sensor, GPS + Cellular",Tech World,146,46,9,1314,900,1314
+ORD0432,2021-08-31,Fitbit,Sense 2,West,"Health Monitor, Bluetooth Only, Rugged",Gadget Zone,282,213,1,282,69,282
+ORD0433,2023-07-28,Fitbit,Charge 6,South,Rugged,Fit Gear,134,94,5,670,200,670
+ORD0434,2024-10-04,Samsung,Galaxy Watch 5,North,GPS + Cellular,Tech World,331,284,4,1324,188,1324
+ORD0435,2024-06-10,Amazfit,GTS 4 Mini,South,GPS,iHub,107,65,1,107,42,107
+ORD0436,2022-11-21,Amazfit,T-Rex 2,East,Sleep Track,SmartTech,208,172,2,416,72,416
+ORD0437,2022-06-06,Apple,Watch Series 9,South,"Bluetooth Only, GPS + Cellular, EDA Sensor",Digital Mall,455,370,1,455,85,455
+ORD0438,2021-05-04,Fitbit,Charge 6,East,"GPS + Cellular, GPS, Health Monitor",Fit Gear,142,99,1,142,43,142
+ORD0439,2020-06-10,Samsung,Galaxy Watch 5,East,EDA Sensor,Gadget Zone,303,265,2,606,76,606
+ORD0440,2020-03-19,Fitbit,Charge 6,East,"Bluetooth Only, EDA Sensor, GPS",SmartTech,156,115,3,468,123,468
+ORD0441,2024-03-17,Samsung,Galaxy Watch 6,Central,"Sleep Track, Rugged, GPS + Cellular",Tech World,343,305,9,3087,342,3087
+ORD0442,2021-09-23,Garmin,Forerunner 955,West,"Sleep Track, Bluetooth Only",Gadget Zone,516,425,2,1032,182,1032
+ORD0443,2022-08-21,Garmin,Forerunner 955,North,"GPS + Cellular, AMOLED",SmartTech,547,488,9,4923,531,4923
+ORD0444,2020-01-20,Apple,Watch Series 9,East,"Health Monitor, Bluetooth Only",iHub,423,374,10,4230,490,4230
+ORD0445,2020-03-11,Garmin,Instinct 2,West,GPS + Cellular,iHub,340,304,5,1700,180,1700
+ORD0446,2021-02-25,Fitbit,Versa 4,East,"EDA Sensor, Health Monitor",iHub,213,166,4,852,188,852
+ORD0447,2024-03-16,Amazfit,GTR 4,East,"Sleep Track, EDA Sensor",iHub,216,175,10,2160,410,2160
+ORD0448,2020-07-10,Samsung,Galaxy Watch 6,East,AMOLED,Online Mart,359,324,6,2154,210,2154
+ORD0449,2021-06-01,Amazfit,GTS 4 Mini,East,"Bluetooth Only, EDA Sensor, GPS",Tech World,99,5,10,990,940,990
+ORD0450,2021-04-18,Amazfit,GTS 4 Mini,North,"GPS, Bluetooth Only, GPS + Cellular",SmartTech,114,38,6,684,456,684
+ORD0451,2021-08-18,Samsung,Galaxy Watch 5,North,"Bluetooth Only, Military Std, Health Monitor",Fit Gear,328,305,9,2952,207,2952
+ORD0452,2021-09-14,Apple,Watch Series 9,East,"Rugged, GPS",Online Mart,405,313,5,2025,460,2025
+ORD0453,2023-08-04,Samsung,Galaxy Watch 6,East,Health Monitor,Gadget Zone,346,253,7,2422,651,2422
+ORD0454,2024-04-05,Garmin,Venu 2,East,Health Monitor,iHub,391,338,9,3519,477,3519
+ORD0455,2020-06-21,Amazfit,GTS 4 Mini,Central,"Bluetooth Only, Sleep Track, AMOLED",Tech World,115,70,4,460,180,460
+ORD0456,2024-01-30,Apple,Watch Series 8,Central,"Sleep Track, Bluetooth Only, GPS",Fit Gear,369,272,7,2583,679,2583
+ORD0457,2020-12-20,Fitbit,Charge 6,South,"EDA Sensor, Rugged",Online Mart,145,115,2,290,60,290
+ORD0458,2022-03-16,Amazfit,GTS 4 Mini,East,AMOLED,iHub,127,76,7,889,357,889
+ORD0459,2021-10-19,Amazfit,GTR 4,North,GPS,Fit Gear,198,119,5,990,395,990
+ORD0460,2020-10-25,Samsung,Galaxy Watch 6,South,Military Std,Online Mart,332,257,1,332,75,332
+ORD0461,2020-04-02,Samsung,Galaxy Watch 6,West,GPS,Tech World,376,280,9,3384,864,3384
+ORD0462,2024-06-11,Garmin,Forerunner 955,South,"Health Monitor, Rugged, Bluetooth Only",SmartTech,521,467,2,1042,108,1042
+ORD0463,2022-09-10,Apple,Watch SE,East,"GPS, Sleep Track",Gadget Zone,273,248,5,1365,125,1365
+ORD0464,2021-07-02,Samsung,Galaxy Watch 6,West,"Health Monitor, AMOLED, Military Std",Tech World,371,345,4,1484,104,1484
+ORD0465,2021-02-28,Fitbit,Sense 2,West,"AMOLED, GPS + Cellular, Rugged",Tech World,275,224,7,1925,357,1925
+ORD0466,2022-05-13,Samsung,Galaxy Watch 5,East,EDA Sensor,SmartTech,340,292,8,2720,384,2720
+ORD0467,2020-03-04,Amazfit,T-Rex 2,East,"Sleep Track, EDA Sensor, GPS",iHub,234,190,6,1404,264,1404
+ORD0468,2020-10-29,Fitbit,Charge 6,North,"Rugged, Health Monitor, AMOLED",Online Mart,147,66,5,735,405,735
+ORD0469,2022-05-25,Samsung,Galaxy Watch 5,East,"EDA Sensor, GPS",iHub,317,280,7,2219,259,2219
+ORD0470,2020-04-16,Apple,Watch Ultra 2,South,"Health Monitor, GPS + Cellular",iHub,783,689,1,783,94,783
+ORD0471,2023-03-25,Amazfit,T-Rex 2,North,"EDA Sensor, Bluetooth Only",SmartTech,233,157,4,932,304,932
+ORD0472,2023-10-17,Apple,Watch Ultra 2,West,"EDA Sensor, Military Std",Tech World,748,653,7,5236,665,5236
+ORD0473,2023-08-16,Amazfit,GTR 4,East,"EDA Sensor, GPS",SmartTech,217,136,3,651,243,651
+ORD0474,2022-05-05,Apple,Watch Series 8,East,"Rugged, EDA Sensor, Military Std",Digital Mall,389,365,6,2334,144,2334
+ORD0475,2020-07-03,Samsung,Galaxy Watch 6,East,"Rugged, Health Monitor, AMOLED",Tech World,338,244,3,1014,282,1014
+ORD0476,2021-10-23,Amazfit,GTS 4 Mini,East,AMOLED,iHub,129,83,9,1161,414,1161
+ORD0477,2024-02-23,Apple,Watch Series 9,West,Health Monitor,Online Mart,438,361,5,2190,385,2190
+ORD0478,2021-04-06,Samsung,Galaxy Watch 6,North,GPS + Cellular,Fit Gear,371,301,1,371,70,371
+ORD0479,2024-03-23,Fitbit,Sense 2,North,"EDA Sensor, GPS + Cellular",Tech World,251,185,8,2008,528,2008
+ORD0480,2024-12-14,Samsung,Galaxy Watch 6,West,"EDA Sensor, Health Monitor, GPS + Cellular",SmartTech,338,266,7,2366,504,2366
+ORD0481,2020-06-25,Samsung,Galaxy Watch 5,East,"EDA Sensor, GPS + Cellular, Military Std",iHub,302,264,6,1812,228,1812
+ORD0482,2021-09-06,Amazfit,GTR 4,North,"Military Std, Sleep Track",Fit Gear,204,167,3,612,111,612
+ORD0483,2022-11-12,Fitbit,Charge 6,South,"EDA Sensor, Bluetooth Only",Fit Gear,133,53,10,1330,800,1330
+ORD0484,2021-10-19,Amazfit,GTS 4 Mini,East,"Military Std, Bluetooth Only",Online Mart,107,12,7,749,665,749
+ORD0485,2020-07-16,Garmin,Forerunner 955,South,"EDA Sensor, GPS + Cellular",Online Mart,519,421,4,2076,392,2076
+ORD0486,2021-08-26,Apple,Watch Ultra 2,South,"GPS, EDA Sensor, Military Std",Tech World,750,656,5,3750,470,3750
+ORD0487,2024-09-21,Garmin,Instinct 2,North,"GPS + Cellular, Health Monitor",Gadget Zone,337,284,1,337,53,337
+ORD0488,2022-01-17,Fitbit,Versa 4,East,"Bluetooth Only, Health Monitor",SmartTech,228,156,4,912,288,912
+ORD0489,2021-12-31,Garmin,Venu 2,East,"AMOLED, GPS",Fit Gear,357,308,9,3213,441,3213
+ORD0490,2023-05-15,Garmin,Forerunner 955,East,"Military Std, Health Monitor, Rugged",Tech World,544,506,9,4896,342,4896
+ORD0491,2020-04-01,Apple,Watch Series 9,South,Military Std,Fit Gear,450,424,9,4050,234,4050
+ORD0492,2022-08-16,Garmin,Venu 2,West,"Military Std, Bluetooth Only, AMOLED",iHub,349,300,3,1047,147,1047
+ORD0493,2024-01-30,Amazfit,T-Rex 2,Central,"Health Monitor, Sleep Track, Bluetooth Only",Digital Mall,201,131,2,402,140,402
+ORD0494,2023-03-19,Fitbit,Sense 2,North,GPS,Tech World,268,213,8,2144,440,2144
+ORD0495,2024-07-04,Amazfit,GTR 4,North,AMOLED,Online Mart,215,176,3,645,117,645
+ORD0496,2021-06-04,Apple,Watch Series 9,South,Military Std,Tech World,437,357,5,2185,400,2185
+ORD0497,2024-11-11,Garmin,Venu 2,South,"Bluetooth Only, Rugged, EDA Sensor",Gadget Zone,359,261,10,3590,980,3590
+ORD0498,2020-01-13,Fitbit,Sense 2,East,Health Monitor,Online Mart,275,186,8,2200,712,2200
+ORD0499,2020-06-29,Amazfit,GTS 4 Mini,South,"EDA Sensor, Bluetooth Only, AMOLED",Fit Gear,102,14,1,102,88,102
+ORD0500,2023-02-11,Fitbit,Sense 2,Central,"EDA Sensor, Bluetooth Only, Sleep Track",Gadget Zone,296,217,3,888,237,888
+ORD0501,2024-09-28,Fitbit,Charge 6,North,"EDA Sensor, GPS, Military Std",Gadget Zone,134,105,2,268,58,268
+ORD0502,2022-11-24,Amazfit,GTS 4 Mini,North,Rugged,Fit Gear,119,94,5,595,125,595
+ORD0503,2024-05-25,Garmin,Venu 2,East,"Rugged, AMOLED",Tech World,371,298,9,3339,657,3339
+ORD0504,2024-03-02,Apple,Watch Series 9,South,"Bluetooth Only, Health Monitor",SmartTech,472,434,10,4720,380,4720
+ORD0505,2024-09-11,Fitbit,Versa 4,Central,"AMOLED, EDA Sensor, Military Std",SmartTech,200,147,9,1800,477,1800
+ORD0506,2022-08-13,Amazfit,T-Rex 2,South,"Rugged, Military Std",Fit Gear,241,185,6,1446,336,1446
+ORD0507,2024-05-27,Samsung,Galaxy Watch 5,South,"Sleep Track, Health Monitor, GPS",Online Mart,318,220,6,1908,588,1908
+ORD0508,2022-05-08,Samsung,Galaxy Watch 5,West,"Rugged, GPS",Digital Mall,318,294,8,2544,192,2544
+ORD0509,2023-03-19,Apple,Watch Series 8,West,GPS + Cellular,Gadget Zone,397,309,4,1588,352,1588
+ORD0510,2022-10-08,Samsung,Galaxy Watch 5,Central,Rugged,Digital Mall,307,209,8,2456,784,2456
+ORD0511,2020-10-20,Garmin,Instinct 2,Central,AMOLED,Fit Gear,330,286,5,1650,220,1650
+ORD0512,2023-01-02,Apple,Watch Ultra 2,Central,Sleep Track,Fit Gear,725,630,7,5075,665,5075
+ORD0513,2024-06-29,Garmin,Venu 2,Central,"GPS + Cellular, Sleep Track, Military Std",Fit Gear,385,331,10,3850,540,3850
+ORD0514,2022-04-23,Amazfit,GTR 4,East,"Rugged, EDA Sensor, Military Std",Gadget Zone,208,168,1,208,40,208
+ORD0515,2022-05-06,Samsung,Galaxy Watch 5,West,"Rugged, AMOLED",Tech World,306,211,9,2754,855,2754
+ORD0516,2022-01-24,Apple,Watch SE,North,"Sleep Track, AMOLED, EDA Sensor",Gadget Zone,273,243,4,1092,120,1092
+ORD0517,2024-06-17,Garmin,Forerunner 955,South,EDA Sensor,iHub,531,467,8,4248,512,4248
+ORD0518,2020-10-22,Fitbit,Sense 2,South,"EDA Sensor, Sleep Track",Tech World,288,197,5,1440,455,1440
+ORD0519,2023-10-01,Fitbit,Versa 4,East,"Sleep Track, Military Std",Fit Gear,213,158,2,426,110,426
+ORD0520,2023-02-12,Amazfit,GTS 4 Mini,East,"GPS + Cellular, Sleep Track, AMOLED",Fit Gear,104,35,6,624,414,624
+ORD0521,2022-06-18,Samsung,Galaxy Watch 5,Central,"GPS, Military Std, Sleep Track",Gadget Zone,337,287,2,674,100,674
+ORD0522,2023-08-27,Fitbit,Versa 4,North,"GPS + Cellular, Rugged",Gadget Zone,218,157,9,1962,549,1962
+ORD0523,2021-07-05,Garmin,Instinct 2,West,"Sleep Track, Health Monitor, GPS + Cellular",Gadget Zone,323,234,10,3230,890,3230
+ORD0524,2022-07-25,Garmin,Forerunner 955,East,"EDA Sensor, Military Std, Rugged",Online Mart,509,476,10,5090,330,5090
+ORD0525,2020-10-06,Garmin,Instinct 2,East,"Bluetooth Only, Health Monitor",Digital Mall,325,263,10,3250,620,3250
+ORD0526,2023-11-10,Fitbit,Sense 2,South,"Bluetooth Only, Military Std, Health Monitor",Digital Mall,270,250,2,540,40,540
+ORD0527,2023-09-14,Fitbit,Sense 2,West,"Military Std, Sleep Track, Bluetooth Only",SmartTech,290,226,6,1740,384,1740
+ORD0528,2021-04-04,Samsung,Galaxy Watch 5,Central,Bluetooth Only,Online Mart,337,238,8,2696,792,2696
+ORD0529,2023-08-06,Samsung,Galaxy Watch 5,North,"Rugged, Bluetooth Only",Gadget Zone,318,218,6,1908,600,1908
+ORD0530,2022-08-17,Samsung,Galaxy Watch 5,North,"Rugged, Sleep Track, Bluetooth Only",Fit Gear,341,283,6,2046,348,2046
+ORD0531,2022-08-15,Fitbit,Charge 6,North,Bluetooth Only,Fit Gear,152,86,4,608,264,608
+ORD0532,2020-10-31,Amazfit,GTR 4,East,"Bluetooth Only, GPS, Rugged",iHub,222,132,7,1554,630,1554
+ORD0533,2022-06-16,Apple,Watch Ultra 2,Central,"GPS + Cellular, Military Std",iHub,793,766,6,4758,162,4758
+ORD0534,2024-10-16,Amazfit,T-Rex 2,South,Health Monitor,iHub,203,177,10,2030,260,2030
+ORD0535,2020-05-08,Fitbit,Charge 6,North,"GPS, AMOLED, Sleep Track",Tech World,156,118,6,936,228,936
+ORD0536,2022-04-07,Fitbit,Sense 2,East,"Health Monitor, Military Std",iHub,294,258,4,1176,144,1176
+ORD0537,2023-08-19,Samsung,Galaxy Watch 5,East,"Sleep Track, AMOLED",Tech World,322,253,4,1288,276,1288
+ORD0538,2022-10-10,Amazfit,GTS 4 Mini,East,"Sleep Track, EDA Sensor, Military Std",Online Mart,116,30,9,1044,774,1044
+ORD0539,2022-08-21,Amazfit,GTR 4,West,"Health Monitor, AMOLED",SmartTech,194,140,9,1746,486,1746
+ORD0540,2024-08-13,Apple,Watch Ultra 2,North,"AMOLED, Military Std, Health Monitor",Digital Mall,704,622,6,4224,492,4224
+ORD0541,2021-05-08,Samsung,Galaxy Watch 6,South,"EDA Sensor, Health Monitor",Online Mart,337,277,4,1348,240,1348
+ORD0542,2022-02-21,Fitbit,Versa 4,Central,Health Monitor,Tech World,205,168,6,1230,222,1230
+ORD0543,2021-11-02,Amazfit,GTR 4,South,Rugged,SmartTech,184,110,5,920,370,920
+ORD0544,2020-11-01,Amazfit,GTS 4 Mini,West,Health Monitor,Tech World,106,70,4,424,144,424
+ORD0545,2020-10-20,Fitbit,Versa 4,West,"Sleep Track, Rugged, GPS + Cellular",Digital Mall,214,172,3,642,126,642
+ORD0546,2021-01-03,Amazfit,GTS 4 Mini,North,Health Monitor,Fit Gear,112,61,8,896,408,896
+ORD0547,2022-06-23,Apple,Watch Ultra 2,South,Military Std,iHub,734,667,9,6606,603,6606
+ORD0548,2021-08-24,Fitbit,Versa 4,West,"Bluetooth Only, GPS, Health Monitor",Fit Gear,224,161,6,1344,378,1344
+ORD0549,2021-11-20,Fitbit,Sense 2,South,GPS,Digital Mall,287,204,7,2009,581,2009
+ORD0550,2023-02-15,Amazfit,GTR 4,East,Bluetooth Only,Online Mart,188,120,4,752,272,752
+ORD0551,2023-06-19,Garmin,Venu 2,South,"GPS, Rugged, Health Monitor",Digital Mall,361,276,7,2527,595,2527
+ORD0552,2022-05-07,Samsung,Galaxy Watch 6,South,EDA Sensor,Fit Gear,369,310,6,2214,354,2214
+ORD0553,2020-04-26,Amazfit,GTR 4,North,"EDA Sensor, GPS",Digital Mall,182,157,9,1638,225,1638
+ORD0554,2022-12-20,Samsung,Galaxy Watch 5,East,AMOLED,SmartTech,315,269,1,315,46,315
+ORD0555,2023-05-15,Fitbit,Sense 2,South,"AMOLED, Sleep Track, Bluetooth Only",Digital Mall,294,207,5,1470,435,1470
+ORD0556,2023-12-30,Garmin,Forerunner 955,Central,Sleep Track,Gadget Zone,536,508,7,3752,196,3752
+ORD0557,2020-03-14,Garmin,Instinct 2,West,Bluetooth Only,SmartTech,309,230,4,1236,316,1236
+ORD0558,2023-10-20,Samsung,Galaxy Watch 5,West,"AMOLED, GPS + Cellular, EDA Sensor",SmartTech,310,259,10,3100,510,3100
+ORD0559,2020-08-03,Samsung,Galaxy Watch 6,North,"EDA Sensor, Sleep Track",Tech World,340,244,6,2040,576,2040
+ORD0560,2020-09-15,Fitbit,Sense 2,East,Sleep Track,Digital Mall,270,240,1,270,30,270
+ORD0561,2024-11-30,Garmin,Forerunner 955,North,Rugged,Online Mart,509,455,9,4581,486,4581
+ORD0562,2020-05-23,Amazfit,GTS 4 Mini,East,"AMOLED, Rugged, Health Monitor",SmartTech,125,57,5,625,340,625
+ORD0563,2021-09-21,Samsung,Galaxy Watch 6,West,"Rugged, Bluetooth Only, GPS",SmartTech,361,328,5,1805,165,1805
+ORD0564,2022-04-22,Apple,Watch Ultra 2,East,"Sleep Track, Military Std",Fit Gear,709,618,1,709,91,709
+ORD0565,2024-03-21,Amazfit,GTS 4 Mini,North,AMOLED,Digital Mall,121,35,3,363,258,363
+ORD0566,2020-05-15,Apple,Watch SE,Central,"GPS, EDA Sensor",Fit Gear,250,199,3,750,153,750
+ORD0567,2024-05-04,Garmin,Venu 2,South,"Health Monitor, EDA Sensor, Sleep Track",Online Mart,381,308,8,3048,584,3048
+ORD0568,2023-06-27,Samsung,Galaxy Watch 5,North,Health Monitor,iHub,333,272,1,333,61,333
+ORD0569,2024-02-21,Garmin,Forerunner 955,East,"AMOLED, GPS + Cellular, Military Std",Fit Gear,542,515,7,3794,189,3794
+ORD0570,2021-10-22,Garmin,Venu 2,Central,"Sleep Track, Health Monitor, Rugged",iHub,372,337,1,372,35,372
+ORD0571,2021-06-04,Fitbit,Versa 4,South,"AMOLED, GPS, GPS + Cellular",iHub,205,179,3,615,78,615
+ORD0572,2022-05-06,Amazfit,GTS 4 Mini,South,"Military Std, Sleep Track, Health Monitor",SmartTech,108,14,4,432,376,432
+ORD0573,2022-01-01,Fitbit,Sense 2,North,"EDA Sensor, Bluetooth Only, GPS",Fit Gear,274,245,7,1918,203,1918
+ORD0574,2022-07-14,Apple,Watch Series 9,East,"EDA Sensor, GPS, AMOLED",Online Mart,415,360,10,4150,550,4150
+ORD0575,2023-11-21,Fitbit,Sense 2,Central,Health Monitor,SmartTech,264,207,4,1056,228,1056
+ORD0576,2022-04-18,Amazfit,GTR 4,North,"GPS, Health Monitor",Online Mart,183,89,10,1830,940,1830
+ORD0577,2023-08-12,Fitbit,Charge 6,South,"Bluetooth Only, Health Monitor, Rugged",Digital Mall,130,101,4,520,116,520
+ORD0578,2021-08-17,Fitbit,Sense 2,East,"GPS, Military Std",SmartTech,293,195,7,2051,686,2051
+ORD0579,2020-05-23,Fitbit,Versa 4,South,GPS,Gadget Zone,223,188,1,223,35,223
+ORD0580,2022-01-09,Fitbit,Charge 6,East,"GPS, Rugged",Gadget Zone,158,67,10,1580,910,1580
+ORD0581,2021-01-05,Garmin,Instinct 2,Central,EDA Sensor,Fit Gear,329,243,5,1645,430,1645
+ORD0582,2022-10-01,Amazfit,GTR 4,East,Military Std,Fit Gear,216,131,5,1080,425,1080
+ORD0583,2021-06-25,Apple,Watch Ultra 2,Central,"Sleep Track, Bluetooth Only",Online Mart,777,696,2,1554,162,1554
+ORD0584,2023-05-18,Samsung,Galaxy Watch 5,East,Health Monitor,Gadget Zone,305,208,5,1525,485,1525
+ORD0585,2022-09-21,Fitbit,Versa 4,Central,"GPS + Cellular, GPS, Bluetooth Only",Tech World,202,157,4,808,180,808
+ORD0586,2021-12-04,Fitbit,Charge 6,North,"EDA Sensor, Bluetooth Only, Rugged",Gadget Zone,132,52,1,132,80,132
+ORD0587,2023-03-29,Fitbit,Versa 4,North,GPS + Cellular,SmartTech,201,138,3,603,189,603
+ORD0588,2024-03-13,Samsung,Galaxy Watch 5,East,"Health Monitor, Sleep Track, AMOLED",Fit Gear,307,285,6,1842,132,1842
+ORD0589,2023-11-28,Amazfit,GTR 4,West,Health Monitor,Tech World,193,108,10,1930,850,1930
+ORD0590,2023-11-16,Apple,Watch Ultra 2,East,GPS,iHub,725,671,4,2900,216,2900
+ORD0591,2020-06-28,Garmin,Venu 2,North,"GPS + Cellular, GPS, EDA Sensor",SmartTech,363,301,3,1089,186,1089
+ORD0592,2020-02-12,Fitbit,Sense 2,South,"EDA Sensor, Rugged",Online Mart,276,188,8,2208,704,2208
+ORD0593,2022-01-15,Amazfit,GTS 4 Mini,West,"Rugged, EDA Sensor, GPS",Gadget Zone,104,25,5,520,395,520
+ORD0594,2022-01-20,Samsung,Galaxy Watch 6,North,AMOLED,Tech World,367,347,10,3670,200,3670
+ORD0595,2021-06-30,Fitbit,Sense 2,South,Bluetooth Only,Digital Mall,252,222,9,2268,270,2268
+ORD0596,2022-01-10,Samsung,Galaxy Watch 5,Central,"EDA Sensor, GPS, Sleep Track",Tech World,310,216,7,2170,658,2170
+ORD0597,2024-03-13,Apple,Watch Series 8,East,"AMOLED, Rugged, Sleep Track",SmartTech,365,282,8,2920,664,2920
+ORD0598,2022-07-11,Apple,Watch Series 8,East,"EDA Sensor, Bluetooth Only",SmartTech,385,312,7,2695,511,2695
+ORD0599,2022-03-12,Apple,Watch SE,Central,"EDA Sensor, GPS, Sleep Track",Gadget Zone,274,236,7,1918,266,1918
+ORD0600,2020-04-12,Garmin,Forerunner 955,North,"Health Monitor, EDA Sensor, Rugged",Digital Mall,509,455,3,1527,162,1527
+ORD0601,2020-06-07,Amazfit,GTR 4,Central,"Bluetooth Only, Sleep Track, Military Std",SmartTech,214,144,1,214,70,214
+ORD0602,2021-07-24,Fitbit,Charge 6,North,GPS + Cellular,Fit Gear,156,109,3,468,141,468
+ORD0603,2022-07-22,Samsung,Galaxy Watch 5,East,"EDA Sensor, Sleep Track, Rugged",Digital Mall,343,298,3,1029,135,1029
+ORD0604,2024-01-13,Garmin,Venu 2,East,"EDA Sensor, Bluetooth Only, GPS + Cellular",SmartTech,366,285,6,2196,486,2196
+ORD0605,2024-11-07,Apple,Watch Ultra 2,South,Rugged,SmartTech,718,686,5,3590,160,3590
+ORD0606,2023-06-17,Fitbit,Charge 6,East,"Military Std, EDA Sensor, Sleep Track",Online Mart,137,51,7,959,602,959
+ORD0607,2022-06-02,Apple,Watch Series 8,North,"GPS, GPS + Cellular",Gadget Zone,362,320,8,2896,336,2896
+ORD0608,2024-04-23,Apple,Watch Ultra 2,East,EDA Sensor,Tech World,735,707,1,735,28,735
+ORD0609,2021-02-02,Garmin,Instinct 2,West,"Health Monitor, GPS + Cellular, Military Std",Fit Gear,325,287,8,2600,304,2600
+ORD0610,2024-05-16,Apple,Watch Series 9,Central,"EDA Sensor, AMOLED",SmartTech,436,337,2,872,198,872
+ORD0611,2023-03-07,Garmin,Forerunner 955,Central,Rugged,Online Mart,512,476,8,4096,288,4096
+ORD0612,2024-01-01,Samsung,Galaxy Watch 5,West,GPS,SmartTech,348,260,1,348,88,348
+ORD0613,2021-10-19,Garmin,Instinct 2,North,"Bluetooth Only, GPS, EDA Sensor",Fit Gear,303,261,1,303,42,303
+ORD0614,2020-09-29,Amazfit,GTS 4 Mini,South,"AMOLED, Rugged, GPS",Gadget Zone,124,25,9,1116,891,1116
+ORD0615,2021-11-04,Fitbit,Versa 4,Central,"Rugged, Bluetooth Only",Fit Gear,216,185,8,1728,248,1728
+ORD0616,2022-06-07,Apple,Watch Series 9,North,"EDA Sensor, GPS + Cellular, Sleep Track",Online Mart,415,338,10,4150,770,4150
+ORD0617,2023-09-27,Fitbit,Sense 2,North,"AMOLED, Rugged, Sleep Track",Fit Gear,290,208,2,580,164,580
+ORD0618,2021-03-19,Garmin,Venu 2,Central,AMOLED,Online Mart,373,336,9,3357,333,3357
+ORD0619,2020-02-02,Apple,Watch Series 8,North,"GPS + Cellular, Bluetooth Only",Gadget Zone,359,303,9,3231,504,3231
+ORD0620,2020-04-01,Amazfit,T-Rex 2,Central,Rugged,Online Mart,211,119,1,211,92,211
+ORD0621,2023-11-17,Apple,Watch Series 8,West,"Sleep Track, Rugged, GPS",SmartTech,368,327,9,3312,369,3312
+ORD0622,2021-03-31,Samsung,Galaxy Watch 5,Central,"GPS + Cellular, AMOLED",iHub,319,248,7,2233,497,2233
+ORD0623,2024-11-08,Apple,Watch SE,East,AMOLED,Online Mart,254,160,9,2286,846,2286
+ORD0624,2022-09-10,Garmin,Instinct 2,South,"Bluetooth Only, Military Std",Tech World,303,243,9,2727,540,2727
+ORD0625,2021-09-23,Apple,Watch SE,West,"Sleep Track, EDA Sensor",Tech World,267,198,9,2403,621,2403
+ORD0626,2020-10-26,Fitbit,Sense 2,East,"Sleep Track, Bluetooth Only, Military Std",Digital Mall,273,182,3,819,273,819
+ORD0627,2020-01-20,Fitbit,Sense 2,West,Military Std,iHub,271,195,4,1084,304,1084
+ORD0628,2021-07-18,Garmin,Venu 2,East,Bluetooth Only,Fit Gear,367,281,4,1468,344,1468
+ORD0629,2020-03-28,Amazfit,GTR 4,Central,"AMOLED, Health Monitor",Digital Mall,221,121,9,1989,900,1989
+ORD0630,2022-10-21,Apple,Watch Series 9,North,Bluetooth Only,Gadget Zone,494,421,6,2964,438,2964
+ORD0631,2023-05-03,Samsung,Galaxy Watch 6,Central,"GPS + Cellular, GPS, Bluetooth Only",Online Mart,337,295,9,3033,378,3033
+ORD0632,2022-07-29,Fitbit,Charge 6,East,"EDA Sensor, GPS + Cellular, Sleep Track",Gadget Zone,131,107,4,524,96,524
+ORD0633,2023-06-18,Amazfit,GTR 4,North,"GPS + Cellular, AMOLED",Fit Gear,208,131,6,1248,462,1248
+ORD0634,2021-05-17,Garmin,Forerunner 955,South,"Health Monitor, Rugged",Tech World,502,412,1,502,90,502
+ORD0635,2024-12-13,Samsung,Galaxy Watch 6,West,"Rugged, Sleep Track",Tech World,347,288,2,694,118,694
+ORD0636,2024-11-11,Amazfit,T-Rex 2,Central,"EDA Sensor, GPS + Cellular, Military Std",iHub,212,134,3,636,234,636
+ORD0637,2022-12-04,Garmin,Instinct 2,West,"GPS + Cellular, Bluetooth Only, AMOLED",Tech World,348,252,3,1044,288,1044
+ORD0638,2023-01-04,Fitbit,Versa 4,Central,AMOLED,Fit Gear,201,104,10,2010,970,2010
+ORD0639,2022-07-18,Amazfit,T-Rex 2,South,"AMOLED, EDA Sensor",SmartTech,201,105,7,1407,672,1407
+ORD0640,2023-06-07,Apple,Watch Series 9,South,"AMOLED, Health Monitor",Online Mart,449,410,3,1347,117,1347
+ORD0641,2020-08-12,Garmin,Forerunner 955,Central,"Health Monitor, Rugged, GPS",Tech World,499,429,5,2495,350,2495
+ORD0642,2024-06-25,Apple,Watch Ultra 2,West,Military Std,Fit Gear,740,647,8,5920,744,5920
+ORD0643,2023-12-07,Apple,Watch Series 8,West,Sleep Track,Fit Gear,375,350,10,3750,250,3750
+ORD0644,2023-11-14,Amazfit,T-Rex 2,Central,"Bluetooth Only, AMOLED",iHub,248,150,5,1240,490,1240
+ORD0645,2022-11-18,Samsung,Galaxy Watch 6,West,"Rugged, Sleep Track, GPS",Tech World,366,266,2,732,200,732
+ORD0646,2022-09-12,Samsung,Galaxy Watch 5,East,Military Std,SmartTech,334,243,1,334,91,334
+ORD0647,2021-10-07,Samsung,Galaxy Watch 6,West,"Military Std, Sleep Track",Gadget Zone,340,289,5,1700,255,1700
+ORD0648,2023-03-02,Fitbit,Charge 6,South,Bluetooth Only,Online Mart,152,71,2,304,162,304
+ORD0649,2020-06-06,Samsung,Galaxy Watch 6,West,"Sleep Track, Health Monitor",Fit Gear,357,269,1,357,88,357
+ORD0650,2024-01-29,Samsung,Galaxy Watch 6,North,"Health Monitor, GPS, Bluetooth Only",Digital Mall,344,305,4,1376,156,1376
+ORD0651,2022-11-18,Apple,Watch Series 8,East,"Sleep Track, Military Std, GPS",Online Mart,394,319,10,3940,750,3940
+ORD0652,2022-07-31,Samsung,Galaxy Watch 6,North,Bluetooth Only,iHub,329,257,10,3290,720,3290
+ORD0653,2022-11-27,Samsung,Galaxy Watch 5,East,GPS,Online Mart,332,302,3,996,90,996
+ORD0654,2021-07-26,Garmin,Instinct 2,North,Bluetooth Only,Fit Gear,303,255,7,2121,336,2121
+ORD0655,2020-12-14,Amazfit,T-Rex 2,Central,Health Monitor,Gadget Zone,212,133,5,1060,395,1060
+ORD0656,2020-11-01,Apple,Watch Series 9,East,"Bluetooth Only, AMOLED, EDA Sensor",iHub,430,348,3,1290,246,1290
+ORD0657,2022-12-14,Samsung,Galaxy Watch 6,North,"Military Std, Sleep Track",SmartTech,333,273,9,2997,540,2997
+ORD0658,2021-09-06,Amazfit,T-Rex 2,East,"Bluetooth Only, Health Monitor, Sleep Track",Gadget Zone,220,151,6,1320,414,1320
+ORD0659,2021-09-22,Samsung,Galaxy Watch 5,East,"Health Monitor, Military Std",Digital Mall,320,236,8,2560,672,2560
+ORD0660,2020-04-16,Garmin,Forerunner 955,South,"Military Std, GPS",Online Mart,531,481,1,531,50,531
+ORD0661,2021-06-28,Garmin,Venu 2,South,"Military Std, GPS",Tech World,358,312,5,1790,230,1790
+ORD0662,2021-01-23,Garmin,Venu 2,North,"EDA Sensor, GPS",Gadget Zone,360,279,9,3240,729,3240
+ORD0663,2024-02-09,Samsung,Galaxy Watch 5,Central,AMOLED,Online Mart,342,254,3,1026,264,1026
+ORD0664,2022-04-12,Fitbit,Charge 6,East,"Sleep Track, Military Std, EDA Sensor",Tech World,142,100,8,1136,336,1136
+ORD0665,2023-12-10,Samsung,Galaxy Watch 5,East,"Sleep Track, Health Monitor",iHub,349,251,6,2094,588,2094
+ORD0666,2024-05-06,Amazfit,GTS 4 Mini,South,"Rugged, Military Std, GPS",Fit Gear,124,78,8,992,368,992
+ORD0667,2024-09-22,Fitbit,Sense 2,North,"GPS + Cellular, Rugged, EDA Sensor",Fit Gear,284,257,4,1136,108,1136
+ORD0668,2021-11-07,Samsung,Galaxy Watch 6,Central,"Military Std, AMOLED",SmartTech,363,338,2,726,50,726
+ORD0669,2022-06-03,Amazfit,GTS 4 Mini,North,"AMOLED, EDA Sensor, Military Std",Digital Mall,121,66,7,847,385,847
+ORD0670,2023-03-01,Samsung,Galaxy Watch 6,West,Rugged,Gadget Zone,347,311,6,2082,216,2082
+ORD0671,2021-10-07,Amazfit,T-Rex 2,West,"EDA Sensor, AMOLED, Health Monitor",Online Mart,247,159,9,2223,792,2223
+ORD0672,2024-03-16,Fitbit,Sense 2,North,"GPS, AMOLED, Rugged",Digital Mall,283,222,5,1415,305,1415
+ORD0673,2021-09-22,Garmin,Forerunner 955,Central,"GPS + Cellular, Military Std, Bluetooth Only",SmartTech,529,443,1,529,86,529
+ORD0674,2024-11-25,Amazfit,GTS 4 Mini,East,Bluetooth Only,Online Mart,109,58,7,763,357,763
+ORD0675,2022-08-20,Amazfit,GTR 4,Central,GPS + Cellular,Gadget Zone,228,144,10,2280,840,2280
+ORD0676,2023-11-04,Fitbit,Versa 4,Central,Health Monitor,Tech World,228,197,8,1824,248,1824
+ORD0677,2024-04-19,Garmin,Instinct 2,Central,GPS + Cellular,iHub,325,267,7,2275,406,2275
+ORD0678,2024-01-25,Apple,Watch SE,East,"Bluetooth Only, Rugged",iHub,259,233,3,777,78,777
+ORD0679,2020-01-12,Samsung,Galaxy Watch 5,West,"Military Std, GPS + Cellular, EDA Sensor",iHub,327,291,2,654,72,654
+ORD0680,2021-07-27,Fitbit,Sense 2,West,Sleep Track,Fit Gear,292,202,2,584,180,584
+ORD0681,2020-11-09,Apple,Watch Ultra 2,North,"GPS + Cellular, Sleep Track, GPS",Digital Mall,729,687,8,5832,336,5832
+ORD0682,2021-11-30,Garmin,Instinct 2,West,Military Std,Fit Gear,306,258,9,2754,432,2754
+ORD0683,2021-11-23,Garmin,Forerunner 955,Central,"AMOLED, Rugged",iHub,501,468,9,4509,297,4509
+ORD0684,2020-02-22,Fitbit,Sense 2,West,GPS,SmartTech,285,250,6,1710,210,1710
+ORD0685,2024-06-08,Garmin,Instinct 2,South,"Military Std, GPS",Digital Mall,325,275,8,2600,400,2600
+ORD0686,2022-07-01,Samsung,Galaxy Watch 6,North,"AMOLED, Health Monitor, Rugged",Online Mart,373,321,6,2238,312,2238
+ORD0687,2021-06-14,Amazfit,GTS 4 Mini,West,Rugged,SmartTech,107,17,7,749,630,749
+ORD0688,2022-04-08,Samsung,Galaxy Watch 5,Central,Sleep Track,iHub,339,254,10,3390,850,3390
+ORD0689,2020-09-08,Fitbit,Charge 6,South,GPS + Cellular,iHub,147,81,6,882,396,882
+ORD0690,2021-03-04,Fitbit,Charge 6,East,AMOLED,Fit Gear,135,110,5,675,125,675
+ORD0691,2020-02-03,Amazfit,T-Rex 2,South,GPS,Online Mart,230,131,7,1610,693,1610
+ORD0692,2020-03-17,Apple,Watch SE,Central,"GPS + Cellular, GPS, AMOLED",Digital Mall,277,244,4,1108,132,1108
+ORD0693,2023-12-06,Samsung,Galaxy Watch 6,North,GPS,SmartTech,374,318,2,748,112,748
+ORD0694,2023-03-22,Samsung,Galaxy Watch 5,East,"AMOLED, Rugged, Health Monitor",iHub,334,246,3,1002,264,1002
+ORD0695,2022-04-05,Samsung,Galaxy Watch 6,South,"Rugged, GPS",Fit Gear,368,313,1,368,55,368
+ORD0696,2024-05-22,Garmin,Forerunner 955,Central,"Military Std, GPS",Digital Mall,541,471,2,1082,140,1082
+ORD0697,2023-06-04,Fitbit,Charge 6,East,EDA Sensor,Fit Gear,133,75,2,266,116,266
+ORD0698,2023-10-22,Fitbit,Sense 2,South,Bluetooth Only,Gadget Zone,264,224,5,1320,200,1320
+ORD0699,2022-02-24,Apple,Watch SE,Central,GPS + Cellular,Digital Mall,254,227,8,2032,216,2032
+ORD0700,2020-10-28,Samsung,Galaxy Watch 5,North,Health Monitor,Tech World,301,232,4,1204,276,1204
+ORD0701,2021-11-08,Amazfit,T-Rex 2,South,"Health Monitor, Military Std, Sleep Track",Fit Gear,237,206,4,948,124,948
+ORD0702,2022-08-08,Fitbit,Sense 2,Central,"EDA Sensor, Sleep Track, Health Monitor",Online Mart,257,219,1,257,38,257
+ORD0703,2023-08-16,Amazfit,GTR 4,South,"Sleep Track, Bluetooth Only, AMOLED",Fit Gear,185,99,9,1665,774,1665
+ORD0704,2021-01-18,Garmin,Venu 2,South,"AMOLED, Health Monitor, Rugged",Online Mart,375,340,7,2625,245,2625
+ORD0705,2021-12-25,Amazfit,GTR 4,North,Bluetooth Only,Tech World,188,154,7,1316,238,1316
+ORD0706,2022-11-18,Fitbit,Versa 4,North,"AMOLED, Bluetooth Only",Digital Mall,203,121,4,812,328,812
+ORD0707,2024-08-13,Apple,Watch Series 9,East,"Sleep Track, GPS, Bluetooth Only",iHub,426,376,4,1704,200,1704
+ORD0708,2023-02-20,Samsung,Galaxy Watch 5,East,"Military Std, Bluetooth Only",SmartTech,324,289,8,2592,280,2592
+ORD0709,2023-09-28,Apple,Watch Series 9,East,"Military Std, EDA Sensor",Online Mart,435,360,4,1740,300,1740
+ORD0710,2020-10-22,Garmin,Instinct 2,Central,"Bluetooth Only, Health Monitor",Tech World,346,290,6,2076,336,2076
+ORD0711,2023-03-16,Fitbit,Sense 2,Central,"EDA Sensor, Sleep Track",Online Mart,290,191,7,2030,693,2030
+ORD0712,2022-04-23,Garmin,Instinct 2,Central,"Rugged, GPS + Cellular",iHub,349,285,4,1396,256,1396
+ORD0713,2024-08-03,Samsung,Galaxy Watch 6,East,Military Std,Tech World,338,274,3,1014,192,1014
+ORD0714,2024-08-16,Fitbit,Versa 4,Central,"GPS + Cellular, Rugged, Sleep Track",Fit Gear,206,106,2,412,200,412
+ORD0715,2022-03-06,Samsung,Galaxy Watch 5,Central,"Military Std, Bluetooth Only",SmartTech,325,293,6,1950,192,1950
+ORD0716,2024-02-16,Amazfit,T-Rex 2,North,"Military Std, EDA Sensor, Bluetooth Only",Tech World,240,174,3,720,198,720
+ORD0717,2022-04-07,Apple,Watch Series 9,West,"Military Std, GPS, Rugged",Digital Mall,413,379,6,2478,204,2478
+ORD0718,2021-06-16,Fitbit,Charge 6,East,Sleep Track,Online Mart,140,43,10,1400,970,1400
+ORD0719,2023-01-09,Apple,Watch Series 8,West,"Military Std, Sleep Track",Tech World,361,291,9,3249,630,3249
+ORD0720,2021-11-30,Fitbit,Charge 6,North,"Military Std, Sleep Track, AMOLED",SmartTech,159,79,7,1113,560,1113
+ORD0721,2020-10-21,Garmin,Instinct 2,Central,"Rugged, Bluetooth Only, Sleep Track",Online Mart,334,248,10,3340,860,3340
+ORD0722,2020-08-24,Amazfit,T-Rex 2,West,Rugged,Digital Mall,240,177,4,960,252,960
+ORD0723,2022-09-04,Fitbit,Versa 4,West,"Military Std, GPS, Health Monitor",SmartTech,212,166,1,212,46,212
+ORD0724,2021-01-13,Garmin,Venu 2,East,"EDA Sensor, GPS",Gadget Zone,354,274,9,3186,720,3186
+ORD0725,2020-11-17,Garmin,Venu 2,Central,"Rugged, Military Std",Tech World,383,350,9,3447,297,3447
+ORD0726,2021-07-13,Samsung,Galaxy Watch 5,East,"GPS + Cellular, Military Std",Tech World,336,289,3,1008,141,1008
+ORD0727,2022-02-08,Fitbit,Versa 4,West,"EDA Sensor, Rugged, GPS",Fit Gear,205,170,4,820,140,820
+ORD0728,2022-07-21,Samsung,Galaxy Watch 5,West,Rugged,SmartTech,331,259,3,993,216,993
+ORD0729,2020-10-26,Amazfit,GTS 4 Mini,North,"Sleep Track, Military Std, EDA Sensor",iHub,108,14,7,756,658,756
+ORD0730,2022-07-12,Garmin,Venu 2,South,Health Monitor,Gadget Zone,364,324,2,728,80,728
+ORD0731,2021-08-02,Amazfit,GTR 4,North,Health Monitor,Gadget Zone,179,142,6,1074,222,1074
+ORD0732,2021-12-01,Samsung,Galaxy Watch 6,Central,GPS + Cellular,Fit Gear,357,271,10,3570,860,3570
+ORD0733,2024-12-01,Amazfit,GTR 4,North,"Bluetooth Only, Rugged",Fit Gear,218,149,9,1962,621,1962
+ORD0734,2022-09-26,Samsung,Galaxy Watch 6,North,AMOLED,Gadget Zone,348,252,9,3132,864,3132
+ORD0735,2024-04-09,Garmin,Venu 2,North,"Sleep Track, GPS + Cellular",Tech World,364,278,3,1092,258,1092
+ORD0736,2021-01-09,Garmin,Instinct 2,West,"Bluetooth Only, AMOLED",Fit Gear,332,251,1,332,81,332
+ORD0737,2022-05-11,Apple,Watch SE,Central,"GPS, GPS + Cellular",iHub,251,210,1,251,41,251
+ORD0738,2020-08-24,Samsung,Galaxy Watch 6,North,EDA Sensor,iHub,345,297,1,345,48,345
+ORD0739,2020-06-23,Apple,Watch Series 8,West,"GPS, Sleep Track",Fit Gear,351,299,1,351,52,351
+ORD0740,2023-12-08,Fitbit,Charge 6,South,Bluetooth Only,iHub,134,70,7,938,448,938
+ORD0741,2021-08-24,Apple,Watch SE,West,"Bluetooth Only, GPS + Cellular",Digital Mall,268,236,9,2412,288,2412
+ORD0742,2023-09-27,Amazfit,T-Rex 2,South,"GPS, GPS + Cellular, Bluetooth Only",Online Mart,246,192,9,2214,486,2214
+ORD0743,2023-08-27,Apple,Watch Ultra 2,Central,"Sleep Track, GPS + Cellular",iHub,718,632,7,5026,602,5026
+ORD0744,2023-04-19,Apple,Watch Series 8,East,Rugged,Online Mart,396,326,5,1980,350,1980
+ORD0745,2020-09-10,Fitbit,Sense 2,East,Bluetooth Only,Online Mart,274,228,4,1096,184,1096
+ORD0746,2021-10-20,Apple,Watch Series 8,West,Health Monitor,iHub,374,349,7,2618,175,2618
+ORD0747,2020-07-07,Apple,Watch Ultra 2,South,"Rugged, EDA Sensor, Military Std",SmartTech,771,715,7,5397,392,5397
+ORD0748,2024-11-21,Amazfit,GTR 4,East,Military Std,SmartTech,189,137,9,1701,468,1701
+ORD0749,2024-09-07,Apple,Watch SE,North,"EDA Sensor, Bluetooth Only",Gadget Zone,262,212,9,2358,450,2358
+ORD0750,2022-12-26,Samsung,Galaxy Watch 6,West,"Military Std, Bluetooth Only, GPS",iHub,373,323,7,2611,350,2611
+ORD0751,2020-03-31,Samsung,Galaxy Watch 5,North,"GPS, GPS + Cellular, Sleep Track",Gadget Zone,349,276,6,2094,438,2094
+ORD0752,2020-12-04,Samsung,Galaxy Watch 6,West,Sleep Track,Fit Gear,349,277,5,1745,360,1745
+ORD0753,2024-12-14,Samsung,Galaxy Watch 5,West,Military Std,Gadget Zone,334,313,3,1002,63,1002
+ORD0754,2021-02-07,Garmin,Forerunner 955,West,"EDA Sensor, GPS + Cellular",Fit Gear,515,416,8,4120,792,4120
+ORD0755,2023-01-20,Samsung,Galaxy Watch 5,North,"EDA Sensor, Health Monitor",SmartTech,324,293,8,2592,248,2592
+ORD0756,2024-02-10,Apple,Watch Ultra 2,Central,"GPS, Sleep Track, Health Monitor",Digital Mall,757,728,7,5299,203,5299
+ORD0757,2021-11-22,Fitbit,Versa 4,North,Bluetooth Only,iHub,203,148,8,1624,440,1624
+ORD0758,2022-09-05,Fitbit,Charge 6,North,"EDA Sensor, Health Monitor",Tech World,157,62,6,942,570,942
+ORD0759,2021-01-25,Amazfit,GTS 4 Mini,South,AMOLED,Tech World,125,44,6,750,486,750
+ORD0760,2021-04-18,Amazfit,GTR 4,South,"GPS + Cellular, Sleep Track",Digital Mall,210,130,4,840,320,840
+ORD0761,2022-11-24,Garmin,Instinct 2,North,"Bluetooth Only, Rugged, Military Std",SmartTech,331,306,9,2979,225,2979
+ORD0762,2024-08-10,Samsung,Galaxy Watch 5,West,EDA Sensor,Tech World,322,251,3,966,213,966
+ORD0763,2021-03-24,Amazfit,T-Rex 2,East,"GPS + Cellular, Sleep Track",Tech World,201,117,9,1809,756,1809
+ORD0764,2020-10-14,Samsung,Galaxy Watch 6,South,"GPS + Cellular, Sleep Track, GPS",Online Mart,369,284,5,1845,425,1845
+ORD0765,2023-03-30,Samsung,Galaxy Watch 6,East,"Health Monitor, GPS + Cellular, GPS",Fit Gear,373,322,4,1492,204,1492
+ORD0766,2021-03-04,Apple,Watch SE,West,"GPS, Rugged",Fit Gear,262,208,5,1310,270,1310
+ORD0767,2021-05-31,Amazfit,GTS 4 Mini,West,Military Std,Tech World,128,60,10,1280,680,1280
+ORD0768,2023-06-23,Garmin,Instinct 2,South,"Military Std, Bluetooth Only, EDA Sensor",SmartTech,310,254,7,2170,392,2170
+ORD0769,2024-08-10,Apple,Watch Ultra 2,East,Military Std,SmartTech,783,691,3,2349,276,2349
+ORD0770,2021-10-04,Garmin,Venu 2,West,"Health Monitor, EDA Sensor, Sleep Track",Digital Mall,366,274,8,2928,736,2928
+ORD0771,2024-07-15,Apple,Watch Ultra 2,Central,"EDA Sensor, GPS",SmartTech,716,621,10,7160,950,7160
+ORD0772,2023-04-01,Garmin,Venu 2,West,Health Monitor,Fit Gear,357,293,4,1428,256,1428
+ORD0773,2020-07-05,Fitbit,Versa 4,West,"Bluetooth Only, GPS, Health Monitor",iHub,218,195,8,1744,184,1744
+ORD0774,2021-01-28,Amazfit,T-Rex 2,East,GPS + Cellular,SmartTech,210,152,2,420,116,420
+ORD0775,2023-02-19,Fitbit,Charge 6,East,"Sleep Track, GPS + Cellular",Gadget Zone,158,65,5,790,465,790
+ORD0776,2022-07-26,Fitbit,Charge 6,East,"AMOLED, GPS, GPS + Cellular",SmartTech,139,107,10,1390,320,1390
+ORD0777,2021-08-27,Samsung,Galaxy Watch 6,Central,"Sleep Track, EDA Sensor",iHub,350,261,5,1750,445,1750
+ORD0778,2024-09-26,Apple,Watch SE,Central,"Bluetooth Only, Health Monitor",Online Mart,259,220,2,518,78,518
+ORD0779,2024-11-11,Garmin,Venu 2,South,"Rugged, Sleep Track, GPS",Tech World,350,252,6,2100,588,2100
+ORD0780,2020-05-21,Fitbit,Charge 6,North,"AMOLED, Rugged, Health Monitor",Gadget Zone,149,124,4,596,100,596
+ORD0781,2024-03-23,Amazfit,GTR 4,North,"Bluetooth Only, GPS",Gadget Zone,201,129,5,1005,360,1005
+ORD0782,2022-12-17,Apple,Watch Series 9,East,Rugged,SmartTech,496,458,2,992,76,992
+ORD0783,2024-11-20,Samsung,Galaxy Watch 5,North,"Sleep Track, Rugged",Online Mart,344,248,6,2064,576,2064
+ORD0784,2024-03-25,Fitbit,Charge 6,North,Rugged,Tech World,148,70,4,592,312,592
+ORD0785,2024-06-21,Samsung,Galaxy Watch 6,North,Military Std,Digital Mall,349,285,10,3490,640,3490
+ORD0786,2024-05-28,Fitbit,Sense 2,East,"Bluetooth Only, EDA Sensor",iHub,295,227,5,1475,340,1475
+ORD0787,2024-09-25,Fitbit,Versa 4,West,"Military Std, Sleep Track, AMOLED",Fit Gear,203,174,6,1218,174,1218
+ORD0788,2020-02-07,Apple,Watch Ultra 2,North,GPS + Cellular,SmartTech,763,674,6,4578,534,4578
+ORD0789,2020-02-04,Garmin,Forerunner 955,North,"Health Monitor, Bluetooth Only, Sleep Track",iHub,517,417,3,1551,300,1551
+ORD0790,2020-03-20,Amazfit,T-Rex 2,East,Military Std,Tech World,245,188,7,1715,399,1715
+ORD0791,2022-08-02,Samsung,Galaxy Watch 5,Central,"Bluetooth Only, Rugged, AMOLED",Digital Mall,344,269,9,3096,675,3096
+ORD0792,2020-04-22,Garmin,Forerunner 955,West,"GPS, Rugged",Fit Gear,514,433,2,1028,162,1028
+ORD0793,2022-09-27,Fitbit,Versa 4,Central,"AMOLED, Sleep Track, Bluetooth Only",Tech World,221,195,10,2210,260,2210
+ORD0794,2021-09-13,Samsung,Galaxy Watch 5,North,GPS + Cellular,SmartTech,325,265,8,2600,480,2600
+ORD0795,2022-12-04,Fitbit,Versa 4,North,GPS,Tech World,216,171,3,648,135,648
+ORD0796,2022-11-25,Fitbit,Charge 6,East,"AMOLED, Bluetooth Only, Sleep Track",Gadget Zone,147,127,6,882,120,882
+ORD0797,2021-11-15,Samsung,Galaxy Watch 5,Central,Military Std,Tech World,302,212,10,3020,900,3020
+ORD0798,2022-12-19,Samsung,Galaxy Watch 6,West,"GPS, Bluetooth Only, Sleep Track",Tech World,340,242,9,3060,882,3060
+ORD0799,2024-10-08,Apple,Watch Series 9,West,"GPS + Cellular, EDA Sensor",Fit Gear,425,386,9,3825,351,3825
+ORD0800,2020-07-19,Fitbit,Sense 2,North,"Health Monitor, Sleep Track, EDA Sensor",Tech World,288,231,5,1440,285,1440
+ORD0801,2020-01-07,Samsung,Galaxy Watch 5,East,"Rugged, Military Std, Health Monitor",Fit Gear,307,216,1,307,91,307
+ORD0802,2021-09-08,Samsung,Galaxy Watch 6,Central,"GPS + Cellular, Bluetooth Only, AMOLED",Online Mart,362,316,5,1810,230,1810
+ORD0803,2023-05-23,Apple,Watch Series 8,North,Bluetooth Only,SmartTech,385,335,7,2695,350,2695
+ORD0804,2021-08-27,Apple,Watch SE,South,Bluetooth Only,Gadget Zone,270,188,4,1080,328,1080
+ORD0805,2022-07-08,Amazfit,T-Rex 2,West,"Military Std, GPS",Tech World,201,128,8,1608,584,1608
+ORD0806,2024-12-02,Amazfit,GTS 4 Mini,West,EDA Sensor,iHub,125,40,1,125,85,125
+ORD0807,2021-09-21,Garmin,Venu 2,North,Bluetooth Only,Online Mart,395,301,3,1185,282,1185
+ORD0808,2022-12-01,Fitbit,Versa 4,West,EDA Sensor,Digital Mall,216,170,10,2160,460,2160
+ORD0809,2023-07-11,Samsung,Galaxy Watch 6,West,"Health Monitor, Bluetooth Only",iHub,336,237,7,2352,693,2352
+ORD0810,2022-10-16,Apple,Watch Series 8,Central,"AMOLED, Rugged, GPS",Digital Mall,363,286,2,726,154,726
+ORD0811,2020-05-08,Apple,Watch Ultra 2,East,Bluetooth Only,Fit Gear,779,741,4,3116,152,3116
+ORD0812,2022-08-02,Amazfit,GTR 4,West,EDA Sensor,Tech World,220,173,1,220,47,220
+ORD0813,2020-08-05,Fitbit,Charge 6,West,"GPS, AMOLED, Military Std",SmartTech,152,65,4,608,348,608
+ORD0814,2021-08-25,Samsung,Galaxy Watch 6,Central,"Health Monitor, GPS + Cellular, Bluetooth Only",Fit Gear,368,303,2,736,130,736
+ORD0815,2023-07-01,Apple,Watch Series 9,West,"Rugged, EDA Sensor",SmartTech,457,393,9,4113,576,4113
+ORD0816,2024-06-07,Fitbit,Versa 4,North,"GPS, Military Std, GPS + Cellular",SmartTech,211,178,6,1266,198,1266
+ORD0817,2023-01-06,Samsung,Galaxy Watch 5,Central,"GPS + Cellular, GPS",SmartTech,330,282,6,1980,288,1980
+ORD0818,2020-03-19,Amazfit,GTR 4,East,Military Std,SmartTech,226,174,2,452,104,452
+ORD0819,2024-08-06,Fitbit,Charge 6,South,"GPS, Military Std",Tech World,139,74,3,417,195,417
+ORD0820,2020-09-06,Apple,Watch SE,South,"Military Std, Bluetooth Only, GPS + Cellular",Tech World,263,211,7,1841,364,1841
+ORD0821,2023-06-19,Amazfit,T-Rex 2,West,"EDA Sensor, Bluetooth Only, GPS",Digital Mall,222,126,8,1776,768,1776
+ORD0822,2022-11-04,Apple,Watch Series 8,South,"AMOLED, Health Monitor",iHub,396,303,5,1980,465,1980
+ORD0823,2023-03-16,Apple,Watch Series 9,East,"EDA Sensor, Bluetooth Only",iHub,413,382,10,4130,310,4130
+ORD0824,2024-02-15,Amazfit,GTR 4,South,Rugged,Gadget Zone,188,104,7,1316,588,1316
+ORD0825,2021-07-24,Garmin,Instinct 2,South,Bluetooth Only,Tech World,335,260,5,1675,375,1675
+ORD0826,2020-08-10,Samsung,Galaxy Watch 6,East,Bluetooth Only,Digital Mall,329,283,7,2303,322,2303
+ORD0827,2023-04-26,Apple,Watch Series 9,Central,Health Monitor,Fit Gear,470,414,8,3760,448,3760
+ORD0828,2020-02-17,Fitbit,Charge 6,South,"GPS, Health Monitor",Digital Mall,133,93,10,1330,400,1330
+ORD0829,2022-10-12,Fitbit,Sense 2,West,"Rugged, Health Monitor",Tech World,265,188,2,530,154,530
+ORD0830,2020-11-10,Samsung,Galaxy Watch 6,North,Rugged,Digital Mall,347,248,7,2429,693,2429
+ORD0831,2020-11-23,Samsung,Galaxy Watch 5,South,"Bluetooth Only, EDA Sensor",iHub,316,258,7,2212,406,2212
+ORD0832,2021-01-05,Garmin,Venu 2,West,GPS,Digital Mall,387,364,7,2709,161,2709
+ORD0833,2024-02-14,Amazfit,GTR 4,South,Military Std,iHub,218,161,9,1962,513,1962
+ORD0834,2021-07-24,Amazfit,GTS 4 Mini,North,"EDA Sensor, GPS + Cellular, Health Monitor",SmartTech,120,62,4,480,232,480
+ORD0835,2021-12-19,Amazfit,GTR 4,South,Rugged,Digital Mall,213,120,8,1704,744,1704
+ORD0836,2021-04-29,Apple,Watch Series 8,North,GPS,iHub,392,344,10,3920,480,3920
+ORD0837,2021-12-15,Garmin,Venu 2,East,"EDA Sensor, Rugged, Sleep Track",iHub,377,331,9,3393,414,3393
+ORD0838,2021-04-03,Amazfit,T-Rex 2,South,"EDA Sensor, GPS + Cellular",Tech World,246,224,2,492,44,492
+ORD0839,2021-12-08,Fitbit,Versa 4,Central,"AMOLED, Military Std, Health Monitor",iHub,228,203,8,1824,200,1824
+ORD0840,2021-12-03,Fitbit,Sense 2,South,Health Monitor,Fit Gear,298,253,1,298,45,298
+ORD0841,2020-04-14,Samsung,Galaxy Watch 6,North,"Health Monitor, Sleep Track, Military Std",Fit Gear,362,299,2,724,126,724
+ORD0842,2023-12-07,Amazfit,GTR 4,West,"GPS, Sleep Track",iHub,207,118,3,621,267,621
+ORD0843,2021-07-14,Apple,Watch Series 8,West,"Military Std, Rugged",SmartTech,398,318,6,2388,480,2388
+ORD0844,2021-07-10,Fitbit,Sense 2,Central,"Bluetooth Only, Health Monitor",iHub,282,241,7,1974,287,1974
+ORD0845,2020-10-25,Garmin,Forerunner 955,East,"AMOLED, EDA Sensor",Online Mart,548,457,4,2192,364,2192
+ORD0846,2021-12-19,Apple,Watch SE,East,"Sleep Track, Bluetooth Only, AMOLED",SmartTech,272,248,6,1632,144,1632
+ORD0847,2023-02-20,Samsung,Galaxy Watch 5,West,"Health Monitor, Bluetooth Only",Fit Gear,348,325,4,1392,92,1392
+ORD0848,2022-02-22,Apple,Watch Ultra 2,South,"Health Monitor, Sleep Track",Gadget Zone,773,700,6,4638,438,4638
+ORD0849,2024-11-09,Fitbit,Sense 2,South,Health Monitor,iHub,265,243,7,1855,154,1855
+ORD0850,2021-09-30,Amazfit,GTR 4,North,"EDA Sensor, Military Std, Bluetooth Only",Gadget Zone,196,163,2,392,66,392
+ORD0851,2024-01-21,Apple,Watch Series 9,West,Rugged,Fit Gear,496,443,4,1984,212,1984
+ORD0852,2023-05-09,Garmin,Venu 2,East,"Sleep Track, Rugged, AMOLED",Gadget Zone,351,300,4,1404,204,1404
+ORD0853,2023-03-13,Garmin,Instinct 2,Central,"EDA Sensor, Military Std, AMOLED",Online Mart,324,231,7,2268,651,2268
+ORD0854,2022-09-06,Apple,Watch Ultra 2,East,"AMOLED, Bluetooth Only",Fit Gear,707,642,2,1414,130,1414
+ORD0855,2023-12-25,Garmin,Instinct 2,West,"Rugged, GPS + Cellular",Tech World,340,317,3,1020,69,1020
+ORD0856,2024-05-05,Apple,Watch SE,East,"GPS, EDA Sensor",Tech World,255,189,5,1275,330,1275
+ORD0857,2021-08-15,Fitbit,Charge 6,West,"AMOLED, Health Monitor, EDA Sensor",Digital Mall,145,61,4,580,336,580
+ORD0858,2022-12-21,Fitbit,Charge 6,West,Sleep Track,SmartTech,140,107,3,420,99,420
+ORD0859,2021-05-13,Samsung,Galaxy Watch 5,Central,GPS,SmartTech,343,266,5,1715,385,1715
+ORD0860,2024-05-25,Garmin,Instinct 2,Central,"GPS, Sleep Track, EDA Sensor",iHub,333,249,7,2331,588,2331
+ORD0861,2022-04-04,Garmin,Instinct 2,West,"AMOLED, Health Monitor, Sleep Track",Online Mart,345,271,5,1725,370,1725
+ORD0862,2022-03-05,Apple,Watch Series 8,Central,Sleep Track,iHub,366,299,9,3294,603,3294
+ORD0863,2021-01-06,Samsung,Galaxy Watch 6,West,"Rugged, Sleep Track",Tech World,330,310,8,2640,160,2640
+ORD0864,2020-03-20,Fitbit,Charge 6,Central,"GPS, GPS + Cellular, Health Monitor",Digital Mall,158,114,3,474,132,474
+ORD0865,2023-07-13,Fitbit,Sense 2,South,"Bluetooth Only, EDA Sensor",iHub,249,211,6,1494,228,1494
+ORD0866,2020-03-27,Samsung,Galaxy Watch 5,South,Sleep Track,Digital Mall,328,285,7,2296,301,2296
+ORD0867,2022-07-26,Amazfit,T-Rex 2,Central,"GPS, AMOLED, Bluetooth Only",Tech World,205,136,2,410,138,410
+ORD0868,2024-06-07,Garmin,Venu 2,East,Rugged,Digital Mall,393,316,3,1179,231,1179
+ORD0869,2024-05-22,Samsung,Galaxy Watch 5,West,"Bluetooth Only, Health Monitor",SmartTech,302,256,5,1510,230,1510
+ORD0870,2020-01-02,Apple,Watch Ultra 2,Central,EDA Sensor,Digital Mall,735,635,6,4410,600,4410
+ORD0871,2021-10-27,Amazfit,T-Rex 2,West,Bluetooth Only,Online Mart,219,120,3,657,297,657
+ORD0872,2021-08-16,Samsung,Galaxy Watch 5,West,"GPS + Cellular, Rugged",Digital Mall,318,256,2,636,124,636
+ORD0873,2020-03-08,Samsung,Galaxy Watch 6,Central,Health Monitor,Fit Gear,329,274,4,1316,220,1316
+ORD0874,2020-05-28,Amazfit,GTR 4,North,"Bluetooth Only, EDA Sensor, Health Monitor",Online Mart,215,161,8,1720,432,1720
+ORD0875,2021-08-19,Samsung,Galaxy Watch 6,West,Sleep Track,SmartTech,337,280,4,1348,228,1348
+ORD0876,2023-01-18,Fitbit,Versa 4,Central,"Military Std, Sleep Track, Bluetooth Only",iHub,224,183,2,448,82,448
+ORD0877,2020-12-15,Amazfit,T-Rex 2,East,"GPS, Bluetooth Only, Sleep Track",iHub,217,130,9,1953,783,1953
+ORD0878,2024-09-08,Amazfit,T-Rex 2,South,Rugged,iHub,228,200,10,2280,280,2280
+ORD0879,2024-01-03,Garmin,Forerunner 955,Central,"GPS + Cellular, EDA Sensor",Digital Mall,504,425,1,504,79,504
+ORD0880,2023-04-13,Fitbit,Versa 4,North,Sleep Track,iHub,203,114,3,609,267,609
+ORD0881,2020-05-01,Fitbit,Sense 2,Central,EDA Sensor,Gadget Zone,273,222,2,546,102,546
+ORD0882,2023-12-26,Apple,Watch Series 8,East,"EDA Sensor, Health Monitor",Tech World,377,299,8,3016,624,3016
+ORD0883,2020-09-21,Apple,Watch Series 9,West,AMOLED,Online Mart,493,416,4,1972,308,1972
+ORD0884,2022-11-11,Samsung,Galaxy Watch 5,South,"GPS, EDA Sensor, Sleep Track",Tech World,340,254,1,340,86,340
+ORD0885,2022-10-13,Amazfit,T-Rex 2,North,"GPS + Cellular, Bluetooth Only, Military Std",Digital Mall,223,154,6,1338,414,1338
+ORD0886,2020-06-01,Amazfit,GTR 4,North,"GPS + Cellular, AMOLED",Fit Gear,221,122,4,884,396,884
+ORD0887,2021-12-20,Garmin,Instinct 2,Central,Military Std,Fit Gear,303,212,8,2424,728,2424
+ORD0888,2021-03-18,Fitbit,Versa 4,East,"GPS, AMOLED, Bluetooth Only",iHub,222,136,8,1776,688,1776
+ORD0889,2020-11-14,Amazfit,GTS 4 Mini,South,"EDA Sensor, GPS + Cellular, Rugged",Online Mart,117,76,1,117,41,117
+ORD0890,2024-12-06,Amazfit,GTS 4 Mini,Central,"Rugged, GPS, GPS + Cellular",iHub,104,62,7,728,294,728
+ORD0891,2021-02-17,Garmin,Instinct 2,East,EDA Sensor,Digital Mall,330,257,10,3300,730,3300
+ORD0892,2022-04-11,Samsung,Galaxy Watch 6,West,"Health Monitor, GPS",Tech World,345,255,9,3105,810,3105
+ORD0893,2023-07-31,Amazfit,GTS 4 Mini,North,"Rugged, Bluetooth Only",SmartTech,116,33,1,116,83,116
+ORD0894,2024-03-20,Fitbit,Sense 2,West,AMOLED,SmartTech,298,257,1,298,41,298
+ORD0895,2023-03-25,Amazfit,GTR 4,Central,"AMOLED, Military Std",Tech World,219,122,6,1314,582,1314
+ORD0896,2024-02-02,Garmin,Forerunner 955,North,AMOLED,Online Mart,506,449,10,5060,570,5060
+ORD0897,2021-09-22,Garmin,Venu 2,East,"Military Std, GPS + Cellular, Bluetooth Only",SmartTech,391,319,10,3910,720,3910
+ORD0898,2023-06-04,Garmin,Instinct 2,North,"Military Std, GPS + Cellular",SmartTech,338,267,5,1690,355,1690
+ORD0899,2022-04-03,Apple,Watch SE,East,Bluetooth Only,Fit Gear,269,212,8,2152,456,2152
+ORD0900,2024-11-01,Samsung,Galaxy Watch 6,South,GPS + Cellular,iHub,345,322,10,3450,230,3450
+ORD0901,2020-10-29,Amazfit,GTR 4,West,"Bluetooth Only, EDA Sensor",Tech World,218,127,2,436,182,436
+ORD0902,2024-01-08,Amazfit,GTR 4,North,Bluetooth Only,Gadget Zone,205,126,7,1435,553,1435
+ORD0903,2024-04-03,Garmin,Instinct 2,East,"GPS, GPS + Cellular",Digital Mall,321,271,3,963,150,963
+ORD0904,2020-10-01,Amazfit,GTS 4 Mini,West,"Rugged, Health Monitor",Tech World,105,18,4,420,348,420
+ORD0905,2024-11-26,Fitbit,Charge 6,East,Rugged,Gadget Zone,139,112,2,278,54,278
+ORD0906,2020-09-03,Apple,Watch Series 8,Central,GPS,Digital Mall,370,350,1,370,20,370
+ORD0907,2020-06-04,Garmin,Instinct 2,South,GPS + Cellular,Online Mart,310,246,10,3100,640,3100
+ORD0908,2020-05-04,Samsung,Galaxy Watch 5,North,"Sleep Track, EDA Sensor, Bluetooth Only",Fit Gear,317,241,8,2536,608,2536
+ORD0909,2020-03-11,Samsung,Galaxy Watch 6,West,"Rugged, EDA Sensor",Digital Mall,361,336,3,1083,75,1083
+ORD0910,2024-11-24,Amazfit,T-Rex 2,South,"Military Std, GPS, Bluetooth Only",iHub,219,148,1,219,71,219
+ORD0911,2022-08-16,Garmin,Venu 2,Central,"Health Monitor, GPS + Cellular, GPS",Gadget Zone,370,326,4,1480,176,1480
+ORD0912,2021-01-31,Samsung,Galaxy Watch 6,East,Bluetooth Only,Digital Mall,363,324,5,1815,195,1815
+ORD0913,2023-02-21,Apple,Watch SE,East,"GPS + Cellular, AMOLED",SmartTech,270,193,7,1890,539,1890
+ORD0914,2020-07-26,Samsung,Galaxy Watch 5,Central,"Health Monitor, Military Std, Rugged",Online Mart,347,276,4,1388,284,1388
+ORD0915,2020-08-15,Fitbit,Sense 2,East,"GPS + Cellular, Bluetooth Only",SmartTech,280,184,7,1960,672,1960
+ORD0916,2024-08-27,Apple,Watch SE,West,"Health Monitor, Bluetooth Only",SmartTech,270,200,7,1890,490,1890
+ORD0917,2023-08-22,Garmin,Instinct 2,North,"Rugged, Sleep Track",Fit Gear,335,272,7,2345,441,2345
+ORD0918,2021-08-02,Apple,Watch Ultra 2,North,Health Monitor,Tech World,799,699,5,3995,500,3995
+ORD0919,2022-11-06,Samsung,Galaxy Watch 6,Central,"Military Std, Rugged",SmartTech,355,315,3,1065,120,1065
+ORD0920,2021-08-07,Garmin,Forerunner 955,East,GPS,Digital Mall,503,404,3,1509,297,1509
+ORD0921,2021-01-06,Samsung,Galaxy Watch 6,South,"Rugged, Sleep Track",iHub,332,239,2,664,186,664
+ORD0922,2023-03-03,Amazfit,T-Rex 2,West,GPS,Gadget Zone,238,213,2,476,50,476
+ORD0923,2023-11-05,Apple,Watch Series 9,East,"AMOLED, Health Monitor, GPS",Digital Mall,408,375,6,2448,198,2448
+ORD0924,2024-05-30,Fitbit,Sense 2,Central,GPS + Cellular,Tech World,271,193,4,1084,312,1084
+ORD0925,2021-07-24,Amazfit,GTR 4,North,"EDA Sensor, Health Monitor, GPS",iHub,210,135,6,1260,450,1260
+ORD0926,2022-07-01,Amazfit,T-Rex 2,East,Health Monitor,iHub,241,149,2,482,184,482
+ORD0927,2022-02-15,Amazfit,GTR 4,West,"Sleep Track, GPS + Cellular",iHub,207,130,7,1449,539,1449
+ORD0928,2023-04-30,Apple,Watch SE,South,"Rugged, Sleep Track",Tech World,250,201,7,1750,343,1750
+ORD0929,2021-06-19,Samsung,Galaxy Watch 6,West,Sleep Track,iHub,329,302,4,1316,108,1316
+ORD0930,2022-12-09,Amazfit,T-Rex 2,Central,"Health Monitor, EDA Sensor, GPS + Cellular",Fit Gear,241,148,7,1687,651,1687
+ORD0931,2021-02-14,Fitbit,Versa 4,North,Rugged,Online Mart,199,101,9,1791,882,1791
+ORD0932,2021-01-22,Fitbit,Versa 4,South,"GPS, Military Std, GPS + Cellular",SmartTech,229,136,6,1374,558,1374
+ORD0933,2024-05-23,Apple,Watch Series 8,Central,"Rugged, GPS",Fit Gear,374,312,3,1122,186,1122
+ORD0934,2021-05-29,Garmin,Forerunner 955,West,GPS + Cellular,iHub,523,467,3,1569,168,1569
+ORD0935,2022-02-12,Garmin,Forerunner 955,East,"GPS, Bluetooth Only",Fit Gear,528,460,9,4752,612,4752
+ORD0936,2023-05-27,Fitbit,Charge 6,East,"AMOLED, GPS + Cellular, Health Monitor",Online Mart,151,117,3,453,102,453
+ORD0937,2021-09-11,Apple,Watch Series 8,Central,"Military Std, AMOLED",Gadget Zone,384,305,7,2688,553,2688
+ORD0938,2024-01-10,Fitbit,Versa 4,West,"GPS, GPS + Cellular",Tech World,202,111,2,404,182,404
+ORD0939,2020-02-16,Apple,Watch Series 9,North,"Military Std, Health Monitor, AMOLED",Digital Mall,449,423,3,1347,78,1347
+ORD0940,2024-07-19,Fitbit,Sense 2,East,"Bluetooth Only, Rugged",Gadget Zone,270,229,6,1620,246,1620
+ORD0941,2023-01-10,Samsung,Galaxy Watch 6,West,"Military Std, EDA Sensor, AMOLED",Gadget Zone,362,272,10,3620,900,3620
+ORD0942,2024-06-10,Samsung,Galaxy Watch 5,South,"Sleep Track, Military Std",Fit Gear,306,260,4,1224,184,1224
+ORD0943,2020-09-13,Garmin,Forerunner 955,West,"Bluetooth Only, Military Std",Fit Gear,511,438,3,1533,219,1533
+ORD0944,2021-02-14,Fitbit,Versa 4,West,"Rugged, Military Std",SmartTech,202,119,6,1212,498,1212
+ORD0945,2024-07-14,Apple,Watch Series 8,North,GPS,Digital Mall,350,254,10,3500,960,3500
+ORD0946,2023-08-30,Fitbit,Sense 2,West,GPS + Cellular,Online Mart,283,194,1,283,89,283
+ORD0947,2023-01-22,Fitbit,Sense 2,West,"Health Monitor, GPS, EDA Sensor",Digital Mall,286,255,6,1716,186,1716
+ORD0948,2024-07-12,Samsung,Galaxy Watch 5,North,GPS,Tech World,314,290,5,1570,120,1570
+ORD0949,2022-08-18,Garmin,Venu 2,South,Bluetooth Only,Online Mart,397,300,8,3176,776,3176
+ORD0950,2021-11-22,Amazfit,T-Rex 2,North,Military Std,SmartTech,221,130,5,1105,455,1105
+ORD0951,2024-12-21,Amazfit,GTS 4 Mini,West,EDA Sensor,Gadget Zone,117,84,9,1053,297,1053
+ORD0952,2020-07-10,Samsung,Galaxy Watch 6,North,"EDA Sensor, Health Monitor, AMOLED",Digital Mall,345,301,3,1035,132,1035
+ORD0953,2021-07-29,Fitbit,Charge 6,West,Sleep Track,Online Mart,153,58,8,1224,760,1224
+ORD0954,2024-03-11,Amazfit,GTS 4 Mini,North,"AMOLED, Rugged, Bluetooth Only",Gadget Zone,112,90,5,560,110,560
+ORD0955,2023-04-16,Amazfit,GTR 4,East,"GPS + Cellular, Military Std, Health Monitor",Fit Gear,195,172,5,975,115,975
+ORD0956,2021-08-22,Fitbit,Charge 6,West,"GPS + Cellular, Health Monitor, Rugged",Fit Gear,153,69,6,918,504,918
+ORD0957,2024-06-02,Samsung,Galaxy Watch 5,West,EDA Sensor,Digital Mall,346,310,4,1384,144,1384
+ORD0958,2024-11-19,Fitbit,Charge 6,East,"GPS + Cellular, EDA Sensor",Fit Gear,143,115,5,715,140,715
+ORD0959,2023-03-04,Samsung,Galaxy Watch 5,West,GPS + Cellular,Gadget Zone,315,279,4,1260,144,1260
+ORD0960,2021-03-27,Garmin,Instinct 2,Central,"GPS + Cellular, Health Monitor",Gadget Zone,304,274,10,3040,300,3040
+ORD0961,2022-08-21,Apple,Watch SE,West,"Military Std, AMOLED, Bluetooth Only",iHub,267,172,6,1602,570,1602
+ORD0962,2023-05-20,Apple,Watch Series 8,East,"Health Monitor, Sleep Track, Bluetooth Only",iHub,356,261,4,1424,380,1424
+ORD0963,2020-01-30,Garmin,Instinct 2,East,"Military Std, GPS",Fit Gear,305,264,2,610,82,610
+ORD0964,2023-05-23,Fitbit,Sense 2,North,"Rugged, Health Monitor, EDA Sensor",Fit Gear,297,215,7,2079,574,2079
+ORD0965,2020-01-24,Amazfit,T-Rex 2,South,"GPS, Sleep Track, EDA Sensor",Gadget Zone,212,142,6,1272,420,1272
+ORD0966,2020-10-10,Fitbit,Sense 2,East,Bluetooth Only,Fit Gear,260,179,6,1560,486,1560
+ORD0967,2024-09-24,Apple,Watch SE,East,Bluetooth Only,Tech World,268,229,2,536,78,536
+ORD0968,2024-02-28,Amazfit,T-Rex 2,North,"Rugged, Bluetooth Only, Sleep Track",Digital Mall,207,121,7,1449,602,1449
+ORD0969,2021-09-08,Fitbit,Versa 4,North,Sleep Track,iHub,205,151,10,2050,540,2050
+ORD0970,2021-03-01,Fitbit,Sense 2,Central,"Bluetooth Only, GPS",Fit Gear,277,209,2,554,136,554
+ORD0971,2020-03-20,Samsung,Galaxy Watch 5,West,EDA Sensor,Tech World,328,262,9,2952,594,2952
+ORD0972,2021-03-04,Amazfit,GTR 4,South,Bluetooth Only,Fit Gear,228,178,8,1824,400,1824
+ORD0973,2023-08-07,Samsung,Galaxy Watch 6,West,"AMOLED, Rugged",Digital Mall,340,294,3,1020,138,1020
+ORD0974,2024-08-29,Amazfit,GTR 4,West,"Sleep Track, AMOLED",Tech World,183,139,7,1281,308,1281
+ORD0975,2022-03-08,Garmin,Venu 2,East,"EDA Sensor, Rugged",iHub,363,282,3,1089,243,1089
+ORD0976,2024-11-22,Garmin,Venu 2,East,"GPS + Cellular, Health Monitor",Fit Gear,361,299,1,361,62,361
+ORD0977,2020-02-01,Apple,Watch Series 9,South,"Military Std, Sleep Track",iHub,426,338,5,2130,440,2130
+ORD0978,2023-01-26,Amazfit,T-Rex 2,South,Rugged,Tech World,235,193,5,1175,210,1175
+ORD0979,2022-12-23,Fitbit,Charge 6,Central,"GPS + Cellular, Rugged, Bluetooth Only",iHub,129,54,3,387,225,387
+ORD0980,2024-11-21,Apple,Watch SE,East,"GPS, GPS + Cellular",Online Mart,253,154,10,2530,990,2530
+ORD0981,2023-05-14,Amazfit,GTS 4 Mini,North,"GPS + Cellular, EDA Sensor, Rugged",iHub,122,75,2,244,94,244
+ORD0982,2023-06-15,Fitbit,Versa 4,East,Sleep Track,Tech World,202,147,6,1212,330,1212
+ORD0983,2024-03-30,Samsung,Galaxy Watch 5,South,"Rugged, Health Monitor",Tech World,323,270,5,1615,265,1615
+ORD0984,2020-04-04,Apple,Watch SE,South,"GPS + Cellular, Rugged, EDA Sensor",Tech World,267,208,3,801,177,801
+ORD0985,2024-07-25,Apple,Watch SE,Central,"Military Std, Health Monitor",Fit Gear,273,204,5,1365,345,1365
+ORD0986,2020-09-23,Samsung,Galaxy Watch 5,North,"Health Monitor, Sleep Track",Tech World,328,253,6,1968,450,1968
+ORD0987,2024-12-14,Garmin,Forerunner 955,South,"GPS + Cellular, Bluetooth Only",Gadget Zone,524,452,1,524,72,524
+ORD0988,2022-02-15,Amazfit,GTR 4,Central,"GPS + Cellular, Rugged",SmartTech,214,183,1,214,31,214
+ORD0989,2022-07-03,Amazfit,GTS 4 Mini,West,"GPS + Cellular, Rugged",iHub,124,76,5,620,240,620
+ORD0990,2021-04-28,Amazfit,GTS 4 Mini,Central,"EDA Sensor, AMOLED",Online Mart,102,59,5,510,215,510
+ORD0991,2022-12-30,Fitbit,Charge 6,North,Sleep Track,Digital Mall,153,102,9,1377,459,1377
+ORD0992,2023-04-15,Fitbit,Charge 6,East,"EDA Sensor, Bluetooth Only",Gadget Zone,143,80,5,715,315,715
+ORD0993,2021-04-13,Apple,Watch Series 8,East,"GPS, AMOLED, Sleep Track",iHub,375,324,2,750,102,750
+ORD0994,2021-01-08,Fitbit,Versa 4,North,"Military Std, Sleep Track, GPS",iHub,229,132,4,916,388,916
+ORD0995,2023-08-06,Amazfit,GTR 4,East,"Bluetooth Only, Sleep Track",Fit Gear,191,92,9,1719,891,1719
+ORD0996,2020-01-31,Samsung,Galaxy Watch 5,Central,"GPS + Cellular, Bluetooth Only",Digital Mall,307,234,4,1228,292,1228
+ORD0997,2024-01-24,Garmin,Venu 2,Central,"Military Std, Sleep Track",Tech World,356,322,3,1068,102,1068
+ORD0998,2023-09-20,Samsung,Galaxy Watch 6,East,"Rugged, GPS + Cellular, Sleep Track",iHub,365,308,8,2920,456,2920
+ORD0999,2020-04-19,Apple,Watch SE,West,Military Std,Digital Mall,252,174,9,2268,702,2268
+ORD1000,2022-10-14,Amazfit,GTR 4,North,Military Std,Online Mart,211,155,8,1688,448,1688
